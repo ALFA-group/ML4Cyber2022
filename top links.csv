@@ -1,0 +1,2 @@
+CAPEC original ID,Technique original ID,CAPEC name,technique name,CWEs,Tactics
+555,T1620,Remote Services with Stolen Credentials,Reflective Code Loading,"['Password Aging with Long Expiration', 'Insufficiently Protected Credentials', 'Use of Password System for Primary Authentication', 'Not Using Password Aging', 'Authentication Bypass by Capture-replay', 'Weak Password Requirements', 'Use of Single-factor Authentication']",['defense-evasion']

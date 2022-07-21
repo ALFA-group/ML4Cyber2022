@@ -1,0 +1,4582 @@
+[
+    {
+        "ap": "capec/capec_00975",
+        "cwe": "cwe/cwe_01903"
+    },
+    {
+        "ap": "capec/capec_01011",
+        "cwe": "cwe/cwe_01168"
+    },
+    {
+        "ap": "capec/capec_00846",
+        "cwe": "cwe/cwe_01650"
+    },
+    {
+        "ap": "capec/capec_01078",
+        "cwe": "cwe/cwe_01541"
+    },
+    {
+        "ap": "capec/capec_00891",
+        "cwe": "cwe/cwe_01615"
+    },
+    {
+        "ap": "capec/capec_00947",
+        "cwe": "cwe/cwe_01724"
+    },
+    {
+        "ap": "capec/capec_00804",
+        "cwe": "cwe/cwe_01643"
+    },
+    {
+        "ap": "capec/capec_00723",
+        "cwe": "cwe/cwe_01415"
+    },
+    {
+        "ap": "capec/capec_00724",
+        "cwe": "cwe/cwe_01900"
+    },
+    {
+        "ap": "capec/capec_00678",
+        "cwe": "cwe/cwe_01760"
+    },
+    {
+        "ap": "capec/capec_00837",
+        "cwe": "cwe/cwe_01672"
+    },
+    {
+        "ap": "capec/capec_00731",
+        "cwe": "cwe/cwe_01444"
+    },
+    {
+        "ap": "capec/capec_00682",
+        "cwe": "cwe/cwe_01874"
+    },
+    {
+        "ap": "capec/capec_00919",
+        "cwe": "cwe/cwe_01610"
+    },
+    {
+        "ap": "capec/capec_00684",
+        "cwe": "cwe/cwe_01489"
+    },
+    {
+        "ap": "capec/capec_01025",
+        "cwe": "cwe/cwe_01450"
+    },
+    {
+        "ap": "capec/capec_00790",
+        "cwe": "cwe/cwe_01692"
+    },
+    {
+        "ap": "capec/capec_01069",
+        "cwe": "cwe/cwe_01580"
+    },
+    {
+        "ap": "capec/capec_01114",
+        "cwe": "cwe/cwe_01393"
+    },
+    {
+        "ap": "capec/capec_00644",
+        "cwe": "cwe/cwe_01951"
+    },
+    {
+        "ap": "capec/capec_00595",
+        "cwe": "cwe/cwe_01222"
+    },
+    {
+        "ap": "capec/capec_00989",
+        "cwe": "cwe/cwe_01854"
+    },
+    {
+        "ap": "capec/capec_00582",
+        "cwe": "cwe/cwe_01753"
+    },
+    {
+        "ap": "capec/capec_01086",
+        "cwe": "cwe/cwe_01974"
+    },
+    {
+        "ap": "capec/capec_00922",
+        "cwe": "cwe/cwe_01376"
+    },
+    {
+        "ap": "capec/capec_00914",
+        "cwe": "cwe/cwe_01847"
+    },
+    {
+        "ap": "capec/capec_00645",
+        "cwe": "cwe/cwe_01322"
+    },
+    {
+        "ap": "capec/capec_00808",
+        "cwe": "cwe/cwe_01371"
+    },
+    {
+        "ap": "capec/capec_00726",
+        "cwe": "cwe/cwe_01949"
+    },
+    {
+        "ap": "capec/capec_01039",
+        "cwe": "cwe/cwe_01220"
+    },
+    {
+        "ap": "capec/capec_00663",
+        "cwe": "cwe/cwe_01454"
+    },
+    {
+        "ap": "capec/capec_01101",
+        "cwe": "cwe/cwe_01628"
+    },
+    {
+        "ap": "capec/capec_00692",
+        "cwe": "cwe/cwe_01435"
+    },
+    {
+        "ap": "capec/capec_00879",
+        "cwe": "cwe/cwe_01850"
+    },
+    {
+        "ap": "capec/capec_00708",
+        "cwe": "cwe/cwe_01687"
+    },
+    {
+        "ap": "capec/capec_00921",
+        "cwe": "cwe/cwe_01961"
+    },
+    {
+        "ap": "capec/capec_00789",
+        "cwe": "cwe/cwe_01945"
+    },
+    {
+        "ap": "capec/capec_00875",
+        "cwe": "cwe/cwe_01582"
+    },
+    {
+        "ap": "capec/capec_00674",
+        "cwe": "cwe/cwe_01737"
+    },
+    {
+        "ap": "capec/capec_00975",
+        "cwe": "cwe/cwe_01451"
+    },
+    {
+        "ap": "capec/capec_00828",
+        "cwe": "cwe/cwe_01424"
+    },
+    {
+        "ap": "capec/capec_00769",
+        "cwe": "cwe/cwe_01320"
+    },
+    {
+        "ap": "capec/capec_00772",
+        "cwe": "cwe/cwe_01160"
+    },
+    {
+        "ap": "capec/capec_00847",
+        "cwe": "cwe/cwe_01614"
+    },
+    {
+        "ap": "capec/capec_00651",
+        "cwe": "cwe/cwe_01218"
+    },
+    {
+        "ap": "capec/capec_00714",
+        "cwe": "cwe/cwe_02024"
+    },
+    {
+        "ap": "capec/capec_00734",
+        "cwe": "cwe/cwe_01166"
+    },
+    {
+        "ap": "capec/capec_00663",
+        "cwe": "cwe/cwe_02046"
+    },
+    {
+        "ap": "capec/capec_00981",
+        "cwe": "cwe/cwe_01984"
+    },
+    {
+        "ap": "capec/capec_01118",
+        "cwe": "cwe/cwe_01409"
+    },
+    {
+        "ap": "capec/capec_01115",
+        "cwe": "cwe/cwe_01958"
+    },
+    {
+        "ap": "capec/capec_00822",
+        "cwe": "cwe/cwe_01996"
+    },
+    {
+        "ap": "capec/capec_00801",
+        "cwe": "cwe/cwe_02043"
+    },
+    {
+        "ap": "capec/capec_01010",
+        "cwe": "cwe/cwe_01720"
+    },
+    {
+        "ap": "capec/capec_00862",
+        "cwe": "cwe/cwe_01588"
+    },
+    {
+        "ap": "capec/capec_01085",
+        "cwe": "cwe/cwe_01803"
+    },
+    {
+        "ap": "capec/capec_00946",
+        "cwe": "cwe/cwe_01211"
+    },
+    {
+        "ap": "capec/capec_00913",
+        "cwe": "cwe/cwe_01754"
+    },
+    {
+        "ap": "capec/capec_00699",
+        "cwe": "cwe/cwe_01625"
+    },
+    {
+        "ap": "capec/capec_00924",
+        "cwe": "cwe/cwe_01992"
+    },
+    {
+        "ap": "capec/capec_00775",
+        "cwe": "cwe/cwe_01375"
+    },
+    {
+        "ap": "capec/capec_00597",
+        "cwe": "cwe/cwe_01876"
+    },
+    {
+        "ap": "capec/capec_00858",
+        "cwe": "cwe/cwe_01246"
+    },
+    {
+        "ap": "capec/capec_00806",
+        "cwe": "cwe/cwe_01507"
+    },
+    {
+        "ap": "capec/capec_00755",
+        "cwe": "cwe/cwe_01467"
+    },
+    {
+        "ap": "capec/capec_01017",
+        "cwe": "cwe/cwe_01962"
+    },
+    {
+        "ap": "capec/capec_00644",
+        "cwe": "cwe/cwe_01230"
+    },
+    {
+        "ap": "capec/capec_00730",
+        "cwe": "cwe/cwe_02002"
+    },
+    {
+        "ap": "capec/capec_00805",
+        "cwe": "cwe/cwe_01173"
+    },
+    {
+        "ap": "capec/capec_00656",
+        "cwe": "cwe/cwe_01154"
+    },
+    {
+        "ap": "capec/capec_00708",
+        "cwe": "cwe/cwe_01777"
+    },
+    {
+        "ap": "capec/capec_00774",
+        "cwe": "cwe/cwe_01747"
+    },
+    {
+        "ap": "capec/capec_00703",
+        "cwe": "cwe/cwe_01527"
+    },
+    {
+        "ap": "capec/capec_00674",
+        "cwe": "cwe/cwe_01506"
+    },
+    {
+        "ap": "capec/capec_00699",
+        "cwe": "cwe/cwe_01164"
+    },
+    {
+        "ap": "capec/capec_00603",
+        "cwe": "cwe/cwe_01326"
+    },
+    {
+        "ap": "capec/capec_00770",
+        "cwe": "cwe/cwe_01862"
+    },
+    {
+        "ap": "capec/capec_00707",
+        "cwe": "cwe/cwe_01617"
+    },
+    {
+        "ap": "capec/capec_00796",
+        "cwe": "cwe/cwe_01871"
+    },
+    {
+        "ap": "capec/capec_00643",
+        "cwe": "cwe/cwe_01822"
+    },
+    {
+        "ap": "capec/capec_00604",
+        "cwe": "cwe/cwe_01684"
+    },
+    {
+        "ap": "capec/capec_01016",
+        "cwe": "cwe/cwe_01762"
+    },
+    {
+        "ap": "capec/capec_00684",
+        "cwe": "cwe/cwe_01982"
+    },
+    {
+        "ap": "capec/capec_00847",
+        "cwe": "cwe/cwe_01198"
+    },
+    {
+        "ap": "capec/capec_00807",
+        "cwe": "cwe/cwe_01200"
+    },
+    {
+        "ap": "capec/capec_00889",
+        "cwe": "cwe/cwe_01485"
+    },
+    {
+        "ap": "capec/capec_01027",
+        "cwe": "cwe/cwe_01311"
+    },
+    {
+        "ap": "capec/capec_00643",
+        "cwe": "cwe/cwe_01642"
+    },
+    {
+        "ap": "capec/capec_01059",
+        "cwe": "cwe/cwe_01167"
+    },
+    {
+        "ap": "capec/capec_00684",
+        "cwe": "cwe/cwe_01843"
+    },
+    {
+        "ap": "capec/capec_00981",
+        "cwe": "cwe/cwe_01331"
+    },
+    {
+        "ap": "capec/capec_00847",
+        "cwe": "cwe/cwe_01494"
+    },
+    {
+        "ap": "capec/capec_01062",
+        "cwe": "cwe/cwe_01985"
+    },
+    {
+        "ap": "capec/capec_00754",
+        "cwe": "cwe/cwe_01841"
+    },
+    {
+        "ap": "capec/capec_00789",
+        "cwe": "cwe/cwe_01912"
+    },
+    {
+        "ap": "capec/capec_00640",
+        "cwe": "cwe/cwe_01934"
+    },
+    {
+        "ap": "capec/capec_00743",
+        "cwe": "cwe/cwe_01992"
+    },
+    {
+        "ap": "capec/capec_00746",
+        "cwe": "cwe/cwe_01477"
+    },
+    {
+        "ap": "capec/capec_01123",
+        "cwe": "cwe/cwe_01383"
+    },
+    {
+        "ap": "capec/capec_00701",
+        "cwe": "cwe/cwe_01738"
+    },
+    {
+        "ap": "capec/capec_01033",
+        "cwe": "cwe/cwe_01808"
+    },
+    {
+        "ap": "capec/capec_00760",
+        "cwe": "cwe/cwe_01140"
+    },
+    {
+        "ap": "capec/capec_01063",
+        "cwe": "cwe/cwe_01824"
+    },
+    {
+        "ap": "capec/capec_01000",
+        "cwe": "cwe/cwe_02048"
+    },
+    {
+        "ap": "capec/capec_01101",
+        "cwe": "cwe/cwe_01445"
+    },
+    {
+        "ap": "capec/capec_00946",
+        "cwe": "cwe/cwe_01524"
+    },
+    {
+        "ap": "capec/capec_00837",
+        "cwe": "cwe/cwe_01284"
+    },
+    {
+        "ap": "capec/capec_00593",
+        "cwe": "cwe/cwe_01595"
+    },
+    {
+        "ap": "capec/capec_00661",
+        "cwe": "cwe/cwe_01470"
+    },
+    {
+        "ap": "capec/capec_00627",
+        "cwe": "cwe/cwe_01684"
+    },
+    {
+        "ap": "capec/capec_00868",
+        "cwe": "cwe/cwe_01265"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "cwe": "cwe/cwe_01907"
+    },
+    {
+        "ap": "capec/capec_01074",
+        "cwe": "cwe/cwe_01487"
+    },
+    {
+        "ap": "capec/capec_00875",
+        "cwe": "cwe/cwe_01816"
+    },
+    {
+        "ap": "capec/capec_00948",
+        "cwe": "cwe/cwe_01731"
+    },
+    {
+        "ap": "capec/capec_00716",
+        "cwe": "cwe/cwe_01859"
+    },
+    {
+        "ap": "capec/capec_00898",
+        "cwe": "cwe/cwe_01524"
+    },
+    {
+        "ap": "capec/capec_01005",
+        "cwe": "cwe/cwe_01975"
+    },
+    {
+        "ap": "capec/capec_00663",
+        "cwe": "cwe/cwe_01128"
+    },
+    {
+        "ap": "capec/capec_00777",
+        "cwe": "cwe/cwe_01842"
+    },
+    {
+        "ap": "capec/capec_00923",
+        "cwe": "cwe/cwe_01290"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "cwe": "cwe/cwe_01355"
+    },
+    {
+        "ap": "capec/capec_01039",
+        "cwe": "cwe/cwe_01514"
+    },
+    {
+        "ap": "capec/capec_01005",
+        "cwe": "cwe/cwe_01159"
+    },
+    {
+        "ap": "capec/capec_00992",
+        "cwe": "cwe/cwe_02019"
+    },
+    {
+        "ap": "capec/capec_01009",
+        "cwe": "cwe/cwe_01917"
+    },
+    {
+        "ap": "capec/capec_00628",
+        "cwe": "cwe/cwe_01296"
+    },
+    {
+        "ap": "capec/capec_01037",
+        "cwe": "cwe/cwe_01192"
+    },
+    {
+        "ap": "capec/capec_00846",
+        "cwe": "cwe/cwe_01845"
+    },
+    {
+        "ap": "capec/capec_00742",
+        "cwe": "cwe/cwe_01584"
+    },
+    {
+        "ap": "capec/capec_01121",
+        "cwe": "cwe/cwe_02033"
+    },
+    {
+        "ap": "capec/capec_01079",
+        "cwe": "cwe/cwe_01701"
+    },
+    {
+        "ap": "capec/capec_00581",
+        "cwe": "cwe/cwe_02032"
+    },
+    {
+        "ap": "capec/capec_00620",
+        "cwe": "cwe/cwe_01633"
+    },
+    {
+        "ap": "capec/capec_00914",
+        "cwe": "cwe/cwe_01446"
+    },
+    {
+        "ap": "capec/capec_01059",
+        "cwe": "cwe/cwe_01178"
+    },
+    {
+        "ap": "capec/capec_01006",
+        "cwe": "cwe/cwe_01319"
+    },
+    {
+        "ap": "capec/capec_00666",
+        "cwe": "cwe/cwe_01984"
+    },
+    {
+        "ap": "capec/capec_00714",
+        "cwe": "cwe/cwe_01142"
+    },
+    {
+        "ap": "capec/capec_00992",
+        "cwe": "cwe/cwe_01821"
+    },
+    {
+        "ap": "capec/capec_01008",
+        "cwe": "cwe/cwe_01450"
+    },
+    {
+        "ap": "capec/capec_00584",
+        "cwe": "cwe/cwe_01345"
+    },
+    {
+        "ap": "capec/capec_00595",
+        "cwe": "cwe/cwe_01861"
+    },
+    {
+        "ap": "capec/capec_00583",
+        "cwe": "cwe/cwe_01969"
+    },
+    {
+        "ap": "capec/capec_01122",
+        "cwe": "cwe/cwe_01753"
+    },
+    {
+        "ap": "capec/capec_00681",
+        "cwe": "cwe/cwe_01322"
+    },
+    {
+        "ap": "capec/capec_00702",
+        "cwe": "cwe/cwe_01749"
+    },
+    {
+        "ap": "capec/capec_00784",
+        "cwe": "cwe/cwe_02021"
+    },
+    {
+        "ap": "capec/capec_00890",
+        "cwe": "cwe/cwe_01413"
+    },
+    {
+        "ap": "capec/capec_00767",
+        "cwe": "cwe/cwe_01229"
+    },
+    {
+        "ap": "capec/capec_01068",
+        "cwe": "cwe/cwe_02001"
+    },
+    {
+        "ap": "capec/capec_00987",
+        "cwe": "cwe/cwe_01769"
+    },
+    {
+        "ap": "capec/capec_00664",
+        "cwe": "cwe/cwe_01149"
+    },
+    {
+        "ap": "capec/capec_00862",
+        "cwe": "cwe/cwe_01590"
+    },
+    {
+        "ap": "capec/capec_00699",
+        "cwe": "cwe/cwe_02009"
+    },
+    {
+        "ap": "capec/capec_00843",
+        "cwe": "cwe/cwe_01263"
+    },
+    {
+        "ap": "capec/capec_01114",
+        "cwe": "cwe/cwe_01963"
+    },
+    {
+        "ap": "capec/capec_00936",
+        "cwe": "cwe/cwe_01244"
+    },
+    {
+        "ap": "capec/capec_00739",
+        "cwe": "cwe/cwe_01412"
+    },
+    {
+        "ap": "capec/capec_00600",
+        "cwe": "cwe/cwe_01170"
+    },
+    {
+        "ap": "capec/capec_00622",
+        "cwe": "cwe/cwe_01337"
+    },
+    {
+        "ap": "capec/capec_00846",
+        "cwe": "cwe/cwe_01698"
+    },
+    {
+        "ap": "capec/capec_00903",
+        "cwe": "cwe/cwe_01502"
+    },
+    {
+        "ap": "capec/capec_00624",
+        "cwe": "cwe/cwe_01993"
+    },
+    {
+        "ap": "capec/capec_01087",
+        "cwe": "cwe/cwe_01856"
+    },
+    {
+        "ap": "capec/capec_01050",
+        "cwe": "cwe/cwe_01782"
+    },
+    {
+        "ap": "capec/capec_01026",
+        "cwe": "cwe/cwe_01508"
+    },
+    {
+        "ap": "capec/capec_00763",
+        "cwe": "cwe/cwe_01339"
+    },
+    {
+        "ap": "capec/capec_00965",
+        "cwe": "cwe/cwe_01728"
+    },
+    {
+        "ap": "capec/capec_00879",
+        "cwe": "cwe/cwe_01136"
+    },
+    {
+        "ap": "capec/capec_00722",
+        "cwe": "cwe/cwe_01281"
+    },
+    {
+        "ap": "capec/capec_00858",
+        "cwe": "cwe/cwe_01468"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "cwe": "cwe/cwe_01935"
+    },
+    {
+        "ap": "capec/capec_00957",
+        "cwe": "cwe/cwe_01862"
+    },
+    {
+        "ap": "capec/capec_00676",
+        "cwe": "cwe/cwe_01473"
+    },
+    {
+        "ap": "capec/capec_00617",
+        "cwe": "cwe/cwe_01169"
+    },
+    {
+        "ap": "capec/capec_00857",
+        "cwe": "cwe/cwe_01294"
+    },
+    {
+        "ap": "capec/capec_00734",
+        "cwe": "cwe/cwe_01724"
+    },
+    {
+        "ap": "capec/capec_00877",
+        "cwe": "cwe/cwe_01496"
+    },
+    {
+        "ap": "capec/capec_00985",
+        "cwe": "cwe/cwe_01688"
+    },
+    {
+        "ap": "capec/capec_00713",
+        "cwe": "cwe/cwe_01427"
+    },
+    {
+        "ap": "capec/capec_00698",
+        "cwe": "cwe/cwe_01616"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "cwe": "cwe/cwe_01176"
+    },
+    {
+        "ap": "capec/capec_00896",
+        "cwe": "cwe/cwe_01310"
+    },
+    {
+        "ap": "capec/capec_01116",
+        "cwe": "cwe/cwe_01873"
+    },
+    {
+        "ap": "capec/capec_00653",
+        "cwe": "cwe/cwe_01436"
+    },
+    {
+        "ap": "capec/capec_00993",
+        "cwe": "cwe/cwe_01982"
+    },
+    {
+        "ap": "capec/capec_00917",
+        "cwe": "cwe/cwe_01433"
+    },
+    {
+        "ap": "capec/capec_01005",
+        "cwe": "cwe/cwe_01238"
+    },
+    {
+        "ap": "capec/capec_00682",
+        "cwe": "cwe/cwe_01701"
+    },
+    {
+        "ap": "capec/capec_01073",
+        "cwe": "cwe/cwe_01612"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "cwe": "cwe/cwe_01988"
+    },
+    {
+        "ap": "capec/capec_00932",
+        "cwe": "cwe/cwe_01254"
+    },
+    {
+        "ap": "capec/capec_01071",
+        "cwe": "cwe/cwe_01245"
+    },
+    {
+        "ap": "capec/capec_01090",
+        "cwe": "cwe/cwe_01563"
+    },
+    {
+        "ap": "capec/capec_00619",
+        "cwe": "cwe/cwe_01436"
+    },
+    {
+        "ap": "capec/capec_00924",
+        "cwe": "cwe/cwe_01879"
+    },
+    {
+        "ap": "capec/capec_00740",
+        "cwe": "cwe/cwe_01297"
+    },
+    {
+        "ap": "capec/capec_00965",
+        "cwe": "cwe/cwe_01952"
+    },
+    {
+        "ap": "capec/capec_00670",
+        "cwe": "cwe/cwe_01194"
+    },
+    {
+        "ap": "capec/capec_00667",
+        "cwe": "cwe/cwe_01329"
+    },
+    {
+        "ap": "capec/capec_00807",
+        "cwe": "cwe/cwe_01189"
+    },
+    {
+        "ap": "capec/capec_00975",
+        "cwe": "cwe/cwe_01135"
+    },
+    {
+        "ap": "capec/capec_00681",
+        "cwe": "cwe/cwe_01530"
+    },
+    {
+        "ap": "capec/capec_01112",
+        "cwe": "cwe/cwe_01423"
+    },
+    {
+        "ap": "capec/capec_01040",
+        "cwe": "cwe/cwe_01627"
+    },
+    {
+        "ap": "capec/capec_00803",
+        "cwe": "cwe/cwe_01560"
+    },
+    {
+        "ap": "capec/capec_00666",
+        "cwe": "cwe/cwe_01504"
+    },
+    {
+        "ap": "capec/capec_00806",
+        "cwe": "cwe/cwe_01394"
+    },
+    {
+        "ap": "capec/capec_00751",
+        "cwe": "cwe/cwe_01568"
+    },
+    {
+        "ap": "capec/capec_00777",
+        "cwe": "cwe/cwe_01494"
+    },
+    {
+        "ap": "capec/capec_00698",
+        "cwe": "cwe/cwe_01192"
+    },
+    {
+        "ap": "capec/capec_00609",
+        "cwe": "cwe/cwe_01665"
+    },
+    {
+        "ap": "capec/capec_01043",
+        "cwe": "cwe/cwe_01897"
+    },
+    {
+        "ap": "capec/capec_00787",
+        "cwe": "cwe/cwe_01248"
+    },
+    {
+        "ap": "capec/capec_01090",
+        "cwe": "cwe/cwe_01534"
+    },
+    {
+        "ap": "capec/capec_00843",
+        "cwe": "cwe/cwe_01339"
+    },
+    {
+        "ap": "capec/capec_00624",
+        "cwe": "cwe/cwe_01943"
+    },
+    {
+        "ap": "capec/capec_00802",
+        "cwe": "cwe/cwe_01765"
+    },
+    {
+        "ap": "capec/capec_00730",
+        "cwe": "cwe/cwe_01234"
+    },
+    {
+        "ap": "capec/capec_00783",
+        "cwe": "cwe/cwe_01596"
+    },
+    {
+        "ap": "capec/capec_00968",
+        "cwe": "cwe/cwe_01497"
+    },
+    {
+        "ap": "capec/capec_00735",
+        "cwe": "cwe/cwe_01234"
+    },
+    {
+        "ap": "capec/capec_01080",
+        "cwe": "cwe/cwe_01278"
+    },
+    {
+        "ap": "capec/capec_00996",
+        "cwe": "cwe/cwe_01780"
+    },
+    {
+        "ap": "capec/capec_01014",
+        "cwe": "cwe/cwe_02025"
+    },
+    {
+        "ap": "capec/capec_01114",
+        "cwe": "cwe/cwe_01634"
+    },
+    {
+        "ap": "capec/capec_00911",
+        "cwe": "cwe/cwe_01980"
+    },
+    {
+        "ap": "capec/capec_01091",
+        "cwe": "cwe/cwe_01637"
+    },
+    {
+        "ap": "capec/capec_00787",
+        "cwe": "cwe/cwe_01682"
+    },
+    {
+        "ap": "capec/capec_00805",
+        "cwe": "cwe/cwe_01136"
+    },
+    {
+        "ap": "capec/capec_00929",
+        "cwe": "cwe/cwe_01849"
+    },
+    {
+        "ap": "capec/capec_00906",
+        "cwe": "cwe/cwe_01964"
+    },
+    {
+        "ap": "capec/capec_00910",
+        "cwe": "cwe/cwe_01163"
+    },
+    {
+        "ap": "capec/capec_01118",
+        "cwe": "cwe/cwe_01278"
+    },
+    {
+        "ap": "capec/capec_00844",
+        "cwe": "cwe/cwe_01744"
+    },
+    {
+        "ap": "capec/capec_00740",
+        "cwe": "cwe/cwe_01989"
+    },
+    {
+        "ap": "capec/capec_00969",
+        "cwe": "cwe/cwe_01723"
+    },
+    {
+        "ap": "capec/capec_00882",
+        "cwe": "cwe/cwe_01862"
+    },
+    {
+        "ap": "capec/capec_01062",
+        "cwe": "cwe/cwe_01194"
+    },
+    {
+        "ap": "capec/capec_00667",
+        "cwe": "cwe/cwe_01655"
+    },
+    {
+        "ap": "capec/capec_00621",
+        "cwe": "cwe/cwe_01194"
+    },
+    {
+        "ap": "capec/capec_00811",
+        "cwe": "cwe/cwe_01260"
+    },
+    {
+        "ap": "capec/capec_00622",
+        "cwe": "cwe/cwe_01434"
+    },
+    {
+        "ap": "capec/capec_00596",
+        "cwe": "cwe/cwe_01904"
+    },
+    {
+        "ap": "capec/capec_01040",
+        "cwe": "cwe/cwe_01465"
+    },
+    {
+        "ap": "capec/capec_00745",
+        "cwe": "cwe/cwe_01946"
+    },
+    {
+        "ap": "capec/capec_00733",
+        "cwe": "cwe/cwe_02016"
+    },
+    {
+        "ap": "capec/capec_01052",
+        "cwe": "cwe/cwe_01507"
+    },
+    {
+        "ap": "capec/capec_01098",
+        "cwe": "cwe/cwe_01518"
+    },
+    {
+        "ap": "capec/capec_01123",
+        "cwe": "cwe/cwe_01641"
+    },
+    {
+        "ap": "capec/capec_00615",
+        "cwe": "cwe/cwe_01714"
+    },
+    {
+        "ap": "capec/capec_00673",
+        "cwe": "cwe/cwe_01821"
+    },
+    {
+        "ap": "capec/capec_01111",
+        "cwe": "cwe/cwe_01903"
+    },
+    {
+        "ap": "capec/capec_00659",
+        "cwe": "cwe/cwe_01891"
+    },
+    {
+        "ap": "capec/capec_01017",
+        "cwe": "cwe/cwe_01899"
+    },
+    {
+        "ap": "capec/capec_00792",
+        "cwe": "cwe/cwe_01423"
+    },
+    {
+        "ap": "capec/capec_01008",
+        "cwe": "cwe/cwe_01972"
+    },
+    {
+        "ap": "capec/capec_01074",
+        "cwe": "cwe/cwe_01992"
+    },
+    {
+        "ap": "capec/capec_00978",
+        "cwe": "cwe/cwe_01749"
+    },
+    {
+        "ap": "capec/capec_00820",
+        "cwe": "cwe/cwe_01998"
+    },
+    {
+        "ap": "capec/capec_00601",
+        "cwe": "cwe/cwe_01799"
+    },
+    {
+        "ap": "capec/capec_00581",
+        "cwe": "cwe/cwe_01885"
+    },
+    {
+        "ap": "capec/capec_00767",
+        "cwe": "cwe/cwe_01436"
+    },
+    {
+        "ap": "capec/capec_01100",
+        "cwe": "cwe/cwe_01710"
+    },
+    {
+        "ap": "capec/capec_00841",
+        "cwe": "cwe/cwe_01467"
+    },
+    {
+        "ap": "capec/capec_00648",
+        "cwe": "cwe/cwe_01632"
+    },
+    {
+        "ap": "capec/capec_00849",
+        "cwe": "cwe/cwe_01971"
+    },
+    {
+        "ap": "capec/capec_00891",
+        "cwe": "cwe/cwe_01918"
+    },
+    {
+        "ap": "capec/capec_00998",
+        "cwe": "cwe/cwe_01520"
+    },
+    {
+        "ap": "capec/capec_00973",
+        "cwe": "cwe/cwe_01190"
+    },
+    {
+        "ap": "capec/capec_00748",
+        "cwe": "cwe/cwe_01783"
+    },
+    {
+        "ap": "capec/capec_00711",
+        "cwe": "cwe/cwe_01371"
+    },
+    {
+        "ap": "capec/capec_00874",
+        "cwe": "cwe/cwe_01873"
+    },
+    {
+        "ap": "capec/capec_00923",
+        "cwe": "cwe/cwe_01183"
+    },
+    {
+        "ap": "capec/capec_00617",
+        "cwe": "cwe/cwe_01619"
+    },
+    {
+        "ap": "capec/capec_01008",
+        "cwe": "cwe/cwe_01271"
+    },
+    {
+        "ap": "capec/capec_01084",
+        "cwe": "cwe/cwe_02038"
+    },
+    {
+        "ap": "capec/capec_00664",
+        "cwe": "cwe/cwe_01816"
+    },
+    {
+        "ap": "capec/capec_00736",
+        "cwe": "cwe/cwe_01956"
+    },
+    {
+        "ap": "capec/capec_00942",
+        "cwe": "cwe/cwe_01548"
+    },
+    {
+        "ap": "capec/capec_00617",
+        "cwe": "cwe/cwe_01753"
+    },
+    {
+        "ap": "capec/capec_01058",
+        "cwe": "cwe/cwe_01522"
+    },
+    {
+        "ap": "capec/capec_01050",
+        "cwe": "cwe/cwe_01175"
+    },
+    {
+        "ap": "capec/capec_00684",
+        "cwe": "cwe/cwe_01609"
+    },
+    {
+        "ap": "capec/capec_00736",
+        "cwe": "cwe/cwe_01147"
+    },
+    {
+        "ap": "capec/capec_00614",
+        "cwe": "cwe/cwe_01739"
+    },
+    {
+        "ap": "capec/capec_00716",
+        "cwe": "cwe/cwe_01772"
+    },
+    {
+        "ap": "capec/capec_00912",
+        "cwe": "cwe/cwe_01234"
+    },
+    {
+        "ap": "capec/capec_00935",
+        "cwe": "cwe/cwe_01326"
+    },
+    {
+        "ap": "capec/capec_00973",
+        "cwe": "cwe/cwe_01929"
+    },
+    {
+        "ap": "capec/capec_01083",
+        "cwe": "cwe/cwe_01240"
+    },
+    {
+        "ap": "capec/capec_00642",
+        "cwe": "cwe/cwe_01751"
+    },
+    {
+        "ap": "capec/capec_01059",
+        "cwe": "cwe/cwe_01756"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "cwe": "cwe/cwe_01793"
+    },
+    {
+        "ap": "capec/capec_00708",
+        "cwe": "cwe/cwe_01825"
+    },
+    {
+        "ap": "capec/capec_00884",
+        "cwe": "cwe/cwe_01934"
+    },
+    {
+        "ap": "capec/capec_00711",
+        "cwe": "cwe/cwe_01523"
+    },
+    {
+        "ap": "capec/capec_00881",
+        "cwe": "cwe/cwe_01890"
+    },
+    {
+        "ap": "capec/capec_00705",
+        "cwe": "cwe/cwe_01658"
+    },
+    {
+        "ap": "capec/capec_00774",
+        "cwe": "cwe/cwe_01166"
+    },
+    {
+        "ap": "capec/capec_00982",
+        "cwe": "cwe/cwe_01582"
+    },
+    {
+        "ap": "capec/capec_00961",
+        "cwe": "cwe/cwe_01901"
+    },
+    {
+        "ap": "capec/capec_00776",
+        "cwe": "cwe/cwe_01593"
+    },
+    {
+        "ap": "capec/capec_00946",
+        "cwe": "cwe/cwe_01935"
+    },
+    {
+        "ap": "capec/capec_00658",
+        "cwe": "cwe/cwe_01172"
+    },
+    {
+        "ap": "capec/capec_00621",
+        "cwe": "cwe/cwe_01624"
+    },
+    {
+        "ap": "capec/capec_00842",
+        "cwe": "cwe/cwe_02049"
+    },
+    {
+        "ap": "capec/capec_00608",
+        "cwe": "cwe/cwe_01659"
+    },
+    {
+        "ap": "capec/capec_00802",
+        "cwe": "cwe/cwe_01362"
+    },
+    {
+        "ap": "capec/capec_00676",
+        "cwe": "cwe/cwe_01921"
+    },
+    {
+        "ap": "capec/capec_01095",
+        "cwe": "cwe/cwe_01842"
+    },
+    {
+        "ap": "capec/capec_01117",
+        "cwe": "cwe/cwe_01557"
+    },
+    {
+        "ap": "capec/capec_01100",
+        "cwe": "cwe/cwe_01439"
+    },
+    {
+        "ap": "capec/capec_00697",
+        "cwe": "cwe/cwe_01276"
+    },
+    {
+        "ap": "capec/capec_01017",
+        "cwe": "cwe/cwe_02040"
+    },
+    {
+        "ap": "capec/capec_01013",
+        "cwe": "cwe/cwe_01213"
+    },
+    {
+        "ap": "capec/capec_00688",
+        "cwe": "cwe/cwe_01552"
+    },
+    {
+        "ap": "capec/capec_00645",
+        "cwe": "cwe/cwe_01228"
+    },
+    {
+        "ap": "capec/capec_01006",
+        "cwe": "cwe/cwe_01919"
+    },
+    {
+        "ap": "capec/capec_00740",
+        "cwe": "cwe/cwe_01878"
+    },
+    {
+        "ap": "capec/capec_00612",
+        "cwe": "cwe/cwe_01937"
+    },
+    {
+        "ap": "capec/capec_01038",
+        "cwe": "cwe/cwe_01568"
+    },
+    {
+        "ap": "capec/capec_01008",
+        "cwe": "cwe/cwe_01157"
+    },
+    {
+        "ap": "capec/capec_01089",
+        "cwe": "cwe/cwe_02011"
+    },
+    {
+        "ap": "capec/capec_00913",
+        "cwe": "cwe/cwe_01866"
+    },
+    {
+        "ap": "capec/capec_00839",
+        "cwe": "cwe/cwe_01207"
+    },
+    {
+        "ap": "capec/capec_00941",
+        "cwe": "cwe/cwe_01199"
+    },
+    {
+        "ap": "capec/capec_00705",
+        "cwe": "cwe/cwe_01494"
+    },
+    {
+        "ap": "capec/capec_00611",
+        "cwe": "cwe/cwe_01480"
+    },
+    {
+        "ap": "capec/capec_00937",
+        "cwe": "cwe/cwe_01309"
+    },
+    {
+        "ap": "capec/capec_00591",
+        "cwe": "cwe/cwe_01977"
+    },
+    {
+        "ap": "capec/capec_00817",
+        "cwe": "cwe/cwe_01965"
+    },
+    {
+        "ap": "capec/capec_00955",
+        "cwe": "cwe/cwe_01199"
+    },
+    {
+        "ap": "capec/capec_00727",
+        "cwe": "cwe/cwe_01339"
+    },
+    {
+        "ap": "capec/capec_00584",
+        "cwe": "cwe/cwe_01336"
+    },
+    {
+        "ap": "capec/capec_00707",
+        "cwe": "cwe/cwe_01892"
+    },
+    {
+        "ap": "capec/capec_00588",
+        "cwe": "cwe/cwe_01427"
+    },
+    {
+        "ap": "capec/capec_00958",
+        "cwe": "cwe/cwe_01833"
+    },
+    {
+        "ap": "capec/capec_00606",
+        "cwe": "cwe/cwe_01746"
+    },
+    {
+        "ap": "capec/capec_00819",
+        "cwe": "cwe/cwe_02006"
+    },
+    {
+        "ap": "capec/capec_00726",
+        "cwe": "cwe/cwe_01318"
+    },
+    {
+        "ap": "capec/capec_01045",
+        "cwe": "cwe/cwe_01242"
+    },
+    {
+        "ap": "capec/capec_01069",
+        "cwe": "cwe/cwe_01479"
+    },
+    {
+        "ap": "capec/capec_00845",
+        "cwe": "cwe/cwe_01260"
+    },
+    {
+        "ap": "capec/capec_00609",
+        "cwe": "cwe/cwe_01340"
+    },
+    {
+        "ap": "capec/capec_00951",
+        "cwe": "cwe/cwe_01470"
+    },
+    {
+        "ap": "capec/capec_01065",
+        "cwe": "cwe/cwe_01426"
+    },
+    {
+        "ap": "capec/capec_00884",
+        "cwe": "cwe/cwe_02026"
+    },
+    {
+        "ap": "capec/capec_00915",
+        "cwe": "cwe/cwe_01315"
+    },
+    {
+        "ap": "capec/capec_00663",
+        "cwe": "cwe/cwe_01232"
+    },
+    {
+        "ap": "capec/capec_00896",
+        "cwe": "cwe/cwe_01287"
+    },
+    {
+        "ap": "capec/capec_00966",
+        "cwe": "cwe/cwe_02046"
+    },
+    {
+        "ap": "capec/capec_00731",
+        "cwe": "cwe/cwe_01255"
+    },
+    {
+        "ap": "capec/capec_00809",
+        "cwe": "cwe/cwe_01450"
+    },
+    {
+        "ap": "capec/capec_01101",
+        "cwe": "cwe/cwe_01375"
+    },
+    {
+        "ap": "capec/capec_00823",
+        "cwe": "cwe/cwe_01899"
+    },
+    {
+        "ap": "capec/capec_00769",
+        "cwe": "cwe/cwe_01425"
+    },
+    {
+        "ap": "capec/capec_00962",
+        "cwe": "cwe/cwe_01556"
+    },
+    {
+        "ap": "capec/capec_00628",
+        "cwe": "cwe/cwe_02008"
+    },
+    {
+        "ap": "capec/capec_00716",
+        "cwe": "cwe/cwe_01742"
+    },
+    {
+        "ap": "capec/capec_00602",
+        "cwe": "cwe/cwe_01530"
+    },
+    {
+        "ap": "capec/capec_00660",
+        "cwe": "cwe/cwe_01846"
+    },
+    {
+        "ap": "capec/capec_00655",
+        "cwe": "cwe/cwe_01262"
+    },
+    {
+        "ap": "capec/capec_01011",
+        "cwe": "cwe/cwe_01433"
+    },
+    {
+        "ap": "capec/capec_01007",
+        "cwe": "cwe/cwe_01885"
+    },
+    {
+        "ap": "capec/capec_00726",
+        "cwe": "cwe/cwe_01732"
+    },
+    {
+        "ap": "capec/capec_01013",
+        "cwe": "cwe/cwe_01432"
+    },
+    {
+        "ap": "capec/capec_00944",
+        "cwe": "cwe/cwe_01213"
+    },
+    {
+        "ap": "capec/capec_00835",
+        "cwe": "cwe/cwe_01582"
+    },
+    {
+        "ap": "capec/capec_00959",
+        "cwe": "cwe/cwe_01779"
+    },
+    {
+        "ap": "capec/capec_01122",
+        "cwe": "cwe/cwe_01186"
+    },
+    {
+        "ap": "capec/capec_00966",
+        "cwe": "cwe/cwe_01545"
+    },
+    {
+        "ap": "capec/capec_00589",
+        "cwe": "cwe/cwe_01554"
+    },
+    {
+        "ap": "capec/capec_00909",
+        "cwe": "cwe/cwe_01578"
+    },
+    {
+        "ap": "capec/capec_00789",
+        "cwe": "cwe/cwe_01507"
+    },
+    {
+        "ap": "capec/capec_00881",
+        "cwe": "cwe/cwe_01609"
+    },
+    {
+        "ap": "capec/capec_00674",
+        "cwe": "cwe/cwe_01316"
+    },
+    {
+        "ap": "capec/capec_00692",
+        "cwe": "cwe/cwe_01410"
+    },
+    {
+        "ap": "capec/capec_00695",
+        "cwe": "cwe/cwe_01698"
+    },
+    {
+        "ap": "capec/capec_00738",
+        "cwe": "cwe/cwe_01941"
+    },
+    {
+        "ap": "capec/capec_01037",
+        "cwe": "cwe/cwe_01535"
+    },
+    {
+        "ap": "capec/capec_00770",
+        "cwe": "cwe/cwe_01913"
+    },
+    {
+        "ap": "capec/capec_01012",
+        "cwe": "cwe/cwe_01569"
+    },
+    {
+        "ap": "capec/capec_00759",
+        "cwe": "cwe/cwe_01380"
+    },
+    {
+        "ap": "capec/capec_01045",
+        "cwe": "cwe/cwe_01475"
+    },
+    {
+        "ap": "capec/capec_01116",
+        "cwe": "cwe/cwe_01272"
+    },
+    {
+        "ap": "capec/capec_00944",
+        "cwe": "cwe/cwe_01600"
+    },
+    {
+        "ap": "capec/capec_00669",
+        "cwe": "cwe/cwe_01621"
+    },
+    {
+        "ap": "capec/capec_00789",
+        "cwe": "cwe/cwe_01428"
+    },
+    {
+        "ap": "capec/capec_00582",
+        "cwe": "cwe/cwe_01977"
+    },
+    {
+        "ap": "capec/capec_01040",
+        "cwe": "cwe/cwe_01760"
+    },
+    {
+        "ap": "capec/capec_01054",
+        "cwe": "cwe/cwe_01134"
+    },
+    {
+        "ap": "capec/capec_00804",
+        "cwe": "cwe/cwe_01432"
+    },
+    {
+        "ap": "capec/capec_00698",
+        "cwe": "cwe/cwe_01914"
+    },
+    {
+        "ap": "capec/capec_00889",
+        "cwe": "cwe/cwe_01685"
+    },
+    {
+        "ap": "capec/capec_00740",
+        "cwe": "cwe/cwe_01561"
+    },
+    {
+        "ap": "capec/capec_01063",
+        "cwe": "cwe/cwe_01221"
+    },
+    {
+        "ap": "capec/capec_01090",
+        "cwe": "cwe/cwe_01905"
+    },
+    {
+        "ap": "capec/capec_00818",
+        "cwe": "cwe/cwe_01683"
+    },
+    {
+        "ap": "capec/capec_00996",
+        "cwe": "cwe/cwe_01413"
+    },
+    {
+        "ap": "capec/capec_00603",
+        "cwe": "cwe/cwe_01250"
+    },
+    {
+        "ap": "capec/capec_00857",
+        "cwe": "cwe/cwe_02031"
+    },
+    {
+        "ap": "capec/capec_00622",
+        "cwe": "cwe/cwe_01127"
+    },
+    {
+        "ap": "capec/capec_00843",
+        "cwe": "cwe/cwe_01534"
+    },
+    {
+        "ap": "capec/capec_01119",
+        "cwe": "cwe/cwe_02038"
+    },
+    {
+        "ap": "capec/capec_00986",
+        "cwe": "cwe/cwe_01582"
+    },
+    {
+        "ap": "capec/capec_00685",
+        "cwe": "cwe/cwe_01891"
+    },
+    {
+        "ap": "capec/capec_00839",
+        "cwe": "cwe/cwe_01489"
+    },
+    {
+        "ap": "capec/capec_00871",
+        "cwe": "cwe/cwe_02019"
+    },
+    {
+        "ap": "capec/capec_00781",
+        "cwe": "cwe/cwe_01736"
+    },
+    {
+        "ap": "capec/capec_00668",
+        "cwe": "cwe/cwe_01163"
+    },
+    {
+        "ap": "capec/capec_00653",
+        "cwe": "cwe/cwe_01938"
+    },
+    {
+        "ap": "capec/capec_00849",
+        "cwe": "cwe/cwe_01439"
+    },
+    {
+        "ap": "capec/capec_00929",
+        "cwe": "cwe/cwe_01248"
+    },
+    {
+        "ap": "capec/capec_01123",
+        "cwe": "cwe/cwe_02007"
+    },
+    {
+        "ap": "capec/capec_00836",
+        "cwe": "cwe/cwe_02039"
+    },
+    {
+        "ap": "capec/capec_00748",
+        "cwe": "cwe/cwe_01196"
+    },
+    {
+        "ap": "capec/capec_01005",
+        "cwe": "cwe/cwe_02008"
+    },
+    {
+        "ap": "capec/capec_00877",
+        "cwe": "cwe/cwe_01416"
+    },
+    {
+        "ap": "capec/capec_01113",
+        "cwe": "cwe/cwe_01264"
+    },
+    {
+        "ap": "capec/capec_01116",
+        "cwe": "cwe/cwe_01769"
+    },
+    {
+        "ap": "capec/capec_00796",
+        "cwe": "cwe/cwe_01671"
+    },
+    {
+        "ap": "capec/capec_00688",
+        "cwe": "cwe/cwe_01547"
+    },
+    {
+        "ap": "capec/capec_00994",
+        "cwe": "cwe/cwe_01886"
+    },
+    {
+        "ap": "capec/capec_00866",
+        "cwe": "cwe/cwe_01426"
+    },
+    {
+        "ap": "capec/capec_01033",
+        "cwe": "cwe/cwe_01507"
+    },
+    {
+        "ap": "capec/capec_00722",
+        "cwe": "cwe/cwe_01287"
+    },
+    {
+        "ap": "capec/capec_00707",
+        "cwe": "cwe/cwe_01840"
+    },
+    {
+        "ap": "capec/capec_00704",
+        "cwe": "cwe/cwe_01517"
+    },
+    {
+        "ap": "capec/capec_00991",
+        "cwe": "cwe/cwe_01732"
+    },
+    {
+        "ap": "capec/capec_01060",
+        "cwe": "cwe/cwe_01269"
+    },
+    {
+        "ap": "capec/capec_00887",
+        "cwe": "cwe/cwe_01489"
+    },
+    {
+        "ap": "capec/capec_01065",
+        "cwe": "cwe/cwe_01887"
+    },
+    {
+        "ap": "capec/capec_01006",
+        "cwe": "cwe/cwe_01350"
+    },
+    {
+        "ap": "capec/capec_01069",
+        "cwe": "cwe/cwe_01627"
+    },
+    {
+        "ap": "capec/capec_01094",
+        "cwe": "cwe/cwe_01452"
+    },
+    {
+        "ap": "capec/capec_01085",
+        "cwe": "cwe/cwe_01794"
+    },
+    {
+        "ap": "capec/capec_00642",
+        "cwe": "cwe/cwe_01581"
+    },
+    {
+        "ap": "capec/capec_00888",
+        "cwe": "cwe/cwe_01273"
+    },
+    {
+        "ap": "capec/capec_01088",
+        "cwe": "cwe/cwe_01180"
+    },
+    {
+        "ap": "capec/capec_00801",
+        "cwe": "cwe/cwe_01153"
+    },
+    {
+        "ap": "capec/capec_00944",
+        "cwe": "cwe/cwe_01609"
+    },
+    {
+        "ap": "capec/capec_00981",
+        "cwe": "cwe/cwe_02036"
+    },
+    {
+        "ap": "capec/capec_00591",
+        "cwe": "cwe/cwe_01993"
+    },
+    {
+        "ap": "capec/capec_01120",
+        "cwe": "cwe/cwe_01195"
+    },
+    {
+        "ap": "capec/capec_00664",
+        "cwe": "cwe/cwe_01829"
+    },
+    {
+        "ap": "capec/capec_00985",
+        "cwe": "cwe/cwe_01133"
+    },
+    {
+        "ap": "capec/capec_00950",
+        "cwe": "cwe/cwe_01169"
+    },
+    {
+        "ap": "capec/capec_00699",
+        "cwe": "cwe/cwe_01762"
+    },
+    {
+        "ap": "capec/capec_00584",
+        "cwe": "cwe/cwe_01403"
+    },
+    {
+        "ap": "capec/capec_00880",
+        "cwe": "cwe/cwe_01871"
+    },
+    {
+        "ap": "capec/capec_00813",
+        "cwe": "cwe/cwe_01271"
+    },
+    {
+        "ap": "capec/capec_00875",
+        "cwe": "cwe/cwe_01322"
+    },
+    {
+        "ap": "capec/capec_00688",
+        "cwe": "cwe/cwe_01571"
+    },
+    {
+        "ap": "capec/capec_01052",
+        "cwe": "cwe/cwe_01860"
+    },
+    {
+        "ap": "capec/capec_00919",
+        "cwe": "cwe/cwe_01520"
+    },
+    {
+        "ap": "capec/capec_00753",
+        "cwe": "cwe/cwe_01465"
+    },
+    {
+        "ap": "capec/capec_01012",
+        "cwe": "cwe/cwe_01790"
+    },
+    {
+        "ap": "capec/capec_01026",
+        "cwe": "cwe/cwe_01278"
+    },
+    {
+        "ap": "capec/capec_01039",
+        "cwe": "cwe/cwe_01852"
+    },
+    {
+        "ap": "capec/capec_00732",
+        "cwe": "cwe/cwe_01663"
+    },
+    {
+        "ap": "capec/capec_00904",
+        "cwe": "cwe/cwe_01259"
+    },
+    {
+        "ap": "capec/capec_00794",
+        "cwe": "cwe/cwe_01318"
+    },
+    {
+        "ap": "capec/capec_01035",
+        "cwe": "cwe/cwe_01484"
+    },
+    {
+        "ap": "capec/capec_00979",
+        "cwe": "cwe/cwe_01564"
+    },
+    {
+        "ap": "capec/capec_01084",
+        "cwe": "cwe/cwe_01525"
+    },
+    {
+        "ap": "capec/capec_00806",
+        "cwe": "cwe/cwe_01941"
+    },
+    {
+        "ap": "capec/capec_00781",
+        "cwe": "cwe/cwe_01576"
+    },
+    {
+        "ap": "capec/capec_00790",
+        "cwe": "cwe/cwe_01727"
+    },
+    {
+        "ap": "capec/capec_00631",
+        "cwe": "cwe/cwe_01524"
+    },
+    {
+        "ap": "capec/capec_00615",
+        "cwe": "cwe/cwe_01366"
+    },
+    {
+        "ap": "capec/capec_00667",
+        "cwe": "cwe/cwe_02018"
+    },
+    {
+        "ap": "capec/capec_00772",
+        "cwe": "cwe/cwe_01499"
+    },
+    {
+        "ap": "capec/capec_00639",
+        "cwe": "cwe/cwe_01887"
+    },
+    {
+        "ap": "capec/capec_00758",
+        "cwe": "cwe/cwe_01365"
+    },
+    {
+        "ap": "capec/capec_00885",
+        "cwe": "cwe/cwe_01754"
+    },
+    {
+        "ap": "capec/capec_00669",
+        "cwe": "cwe/cwe_01848"
+    },
+    {
+        "ap": "capec/capec_01105",
+        "cwe": "cwe/cwe_01896"
+    },
+    {
+        "ap": "capec/capec_00872",
+        "cwe": "cwe/cwe_01916"
+    },
+    {
+        "ap": "capec/capec_01050",
+        "cwe": "cwe/cwe_01182"
+    },
+    {
+        "ap": "capec/capec_01109",
+        "cwe": "cwe/cwe_01808"
+    },
+    {
+        "ap": "capec/capec_01021",
+        "cwe": "cwe/cwe_01721"
+    },
+    {
+        "ap": "capec/capec_01046",
+        "cwe": "cwe/cwe_01628"
+    },
+    {
+        "ap": "capec/capec_00841",
+        "cwe": "cwe/cwe_01848"
+    },
+    {
+        "ap": "capec/capec_01068",
+        "cwe": "cwe/cwe_01347"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "cwe": "cwe/cwe_01399"
+    },
+    {
+        "ap": "capec/capec_00624",
+        "cwe": "cwe/cwe_01171"
+    },
+    {
+        "ap": "capec/capec_00634",
+        "cwe": "cwe/cwe_01293"
+    },
+    {
+        "ap": "capec/capec_00939",
+        "cwe": "cwe/cwe_01130"
+    },
+    {
+        "ap": "capec/capec_00877",
+        "cwe": "cwe/cwe_01797"
+    },
+    {
+        "ap": "capec/capec_00588",
+        "cwe": "cwe/cwe_01270"
+    },
+    {
+        "ap": "capec/capec_00646",
+        "cwe": "cwe/cwe_01932"
+    },
+    {
+        "ap": "capec/capec_01019",
+        "cwe": "cwe/cwe_01823"
+    },
+    {
+        "ap": "capec/capec_00808",
+        "cwe": "cwe/cwe_01750"
+    },
+    {
+        "ap": "capec/capec_00987",
+        "cwe": "cwe/cwe_01698"
+    },
+    {
+        "ap": "capec/capec_00807",
+        "cwe": "cwe/cwe_01591"
+    },
+    {
+        "ap": "capec/capec_00778",
+        "cwe": "cwe/cwe_01474"
+    },
+    {
+        "ap": "capec/capec_00685",
+        "cwe": "cwe/cwe_01747"
+    },
+    {
+        "ap": "capec/capec_00668",
+        "cwe": "cwe/cwe_01940"
+    },
+    {
+        "ap": "capec/capec_00907",
+        "cwe": "cwe/cwe_01457"
+    },
+    {
+        "ap": "capec/capec_01047",
+        "cwe": "cwe/cwe_02041"
+    },
+    {
+        "ap": "capec/capec_00913",
+        "cwe": "cwe/cwe_01388"
+    },
+    {
+        "ap": "capec/capec_00610",
+        "cwe": "cwe/cwe_01661"
+    },
+    {
+        "ap": "capec/capec_00626",
+        "cwe": "cwe/cwe_01321"
+    },
+    {
+        "ap": "capec/capec_00958",
+        "cwe": "cwe/cwe_01209"
+    },
+    {
+        "ap": "capec/capec_00795",
+        "cwe": "cwe/cwe_02017"
+    },
+    {
+        "ap": "capec/capec_01118",
+        "cwe": "cwe/cwe_01481"
+    },
+    {
+        "ap": "capec/capec_00773",
+        "cwe": "cwe/cwe_01984"
+    },
+    {
+        "ap": "capec/capec_00787",
+        "cwe": "cwe/cwe_01384"
+    },
+    {
+        "ap": "capec/capec_00889",
+        "cwe": "cwe/cwe_01446"
+    },
+    {
+        "ap": "capec/capec_01110",
+        "cwe": "cwe/cwe_02007"
+    },
+    {
+        "ap": "capec/capec_00974",
+        "cwe": "cwe/cwe_01387"
+    },
+    {
+        "ap": "capec/capec_01074",
+        "cwe": "cwe/cwe_01479"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "cwe": "cwe/cwe_01172"
+    },
+    {
+        "ap": "capec/capec_00894",
+        "cwe": "cwe/cwe_01692"
+    },
+    {
+        "ap": "capec/capec_00655",
+        "cwe": "cwe/cwe_01136"
+    },
+    {
+        "ap": "capec/capec_01052",
+        "cwe": "cwe/cwe_01634"
+    },
+    {
+        "ap": "capec/capec_01029",
+        "cwe": "cwe/cwe_01175"
+    },
+    {
+        "ap": "capec/capec_01003",
+        "cwe": "cwe/cwe_01632"
+    },
+    {
+        "ap": "capec/capec_01052",
+        "cwe": "cwe/cwe_01577"
+    },
+    {
+        "ap": "capec/capec_00701",
+        "cwe": "cwe/cwe_01214"
+    },
+    {
+        "ap": "capec/capec_00664",
+        "cwe": "cwe/cwe_01373"
+    },
+    {
+        "ap": "capec/capec_00682",
+        "cwe": "cwe/cwe_01973"
+    },
+    {
+        "ap": "capec/capec_00738",
+        "cwe": "cwe/cwe_01550"
+    },
+    {
+        "ap": "capec/capec_00799",
+        "cwe": "cwe/cwe_01578"
+    },
+    {
+        "ap": "capec/capec_00659",
+        "cwe": "cwe/cwe_01964"
+    },
+    {
+        "ap": "capec/capec_01018",
+        "cwe": "cwe/cwe_01699"
+    },
+    {
+        "ap": "capec/capec_00984",
+        "cwe": "cwe/cwe_01167"
+    },
+    {
+        "ap": "capec/capec_00765",
+        "cwe": "cwe/cwe_01382"
+    },
+    {
+        "ap": "capec/capec_01082",
+        "cwe": "cwe/cwe_01352"
+    },
+    {
+        "ap": "capec/capec_00712",
+        "cwe": "cwe/cwe_01987"
+    },
+    {
+        "ap": "capec/capec_00866",
+        "cwe": "cwe/cwe_01487"
+    },
+    {
+        "ap": "capec/capec_00908",
+        "cwe": "cwe/cwe_01572"
+    },
+    {
+        "ap": "capec/capec_00690",
+        "cwe": "cwe/cwe_01697"
+    },
+    {
+        "ap": "capec/capec_00873",
+        "cwe": "cwe/cwe_01751"
+    },
+    {
+        "ap": "capec/capec_00787",
+        "cwe": "cwe/cwe_01855"
+    },
+    {
+        "ap": "capec/capec_00884",
+        "cwe": "cwe/cwe_01923"
+    },
+    {
+        "ap": "capec/capec_01033",
+        "cwe": "cwe/cwe_01653"
+    },
+    {
+        "ap": "capec/capec_01054",
+        "cwe": "cwe/cwe_01676"
+    },
+    {
+        "ap": "capec/capec_00848",
+        "cwe": "cwe/cwe_01406"
+    },
+    {
+        "ap": "capec/capec_00818",
+        "cwe": "cwe/cwe_01143"
+    },
+    {
+        "ap": "capec/capec_00702",
+        "cwe": "cwe/cwe_01756"
+    },
+    {
+        "ap": "capec/capec_00682",
+        "cwe": "cwe/cwe_01303"
+    },
+    {
+        "ap": "capec/capec_01005",
+        "cwe": "cwe/cwe_01381"
+    },
+    {
+        "ap": "capec/capec_00804",
+        "cwe": "cwe/cwe_01418"
+    },
+    {
+        "ap": "capec/capec_00587",
+        "cwe": "cwe/cwe_01886"
+    },
+    {
+        "ap": "capec/capec_01108",
+        "cwe": "cwe/cwe_01565"
+    },
+    {
+        "ap": "capec/capec_00631",
+        "cwe": "cwe/cwe_01251"
+    },
+    {
+        "ap": "capec/capec_00974",
+        "cwe": "cwe/cwe_01787"
+    },
+    {
+        "ap": "capec/capec_00860",
+        "cwe": "cwe/cwe_01248"
+    },
+    {
+        "ap": "capec/capec_00948",
+        "cwe": "cwe/cwe_01362"
+    },
+    {
+        "ap": "capec/capec_00869",
+        "cwe": "cwe/cwe_01353"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "cwe": "cwe/cwe_01193"
+    },
+    {
+        "ap": "capec/capec_01111",
+        "cwe": "cwe/cwe_01441"
+    },
+    {
+        "ap": "capec/capec_00916",
+        "cwe": "cwe/cwe_01366"
+    },
+    {
+        "ap": "capec/capec_00963",
+        "cwe": "cwe/cwe_01770"
+    },
+    {
+        "ap": "capec/capec_01072",
+        "cwe": "cwe/cwe_01420"
+    },
+    {
+        "ap": "capec/capec_00756",
+        "cwe": "cwe/cwe_01267"
+    },
+    {
+        "ap": "capec/capec_00596",
+        "cwe": "cwe/cwe_01693"
+    },
+    {
+        "ap": "capec/capec_01097",
+        "cwe": "cwe/cwe_01462"
+    },
+    {
+        "ap": "capec/capec_00956",
+        "cwe": "cwe/cwe_01726"
+    },
+    {
+        "ap": "capec/capec_00606",
+        "cwe": "cwe/cwe_01958"
+    },
+    {
+        "ap": "capec/capec_00713",
+        "cwe": "cwe/cwe_02024"
+    },
+    {
+        "ap": "capec/capec_00986",
+        "cwe": "cwe/cwe_01285"
+    },
+    {
+        "ap": "capec/capec_00762",
+        "cwe": "cwe/cwe_01649"
+    },
+    {
+        "ap": "capec/capec_00659",
+        "cwe": "cwe/cwe_01265"
+    },
+    {
+        "ap": "capec/capec_00792",
+        "cwe": "cwe/cwe_01927"
+    },
+    {
+        "ap": "capec/capec_01089",
+        "cwe": "cwe/cwe_01710"
+    },
+    {
+        "ap": "capec/capec_00799",
+        "cwe": "cwe/cwe_01367"
+    },
+    {
+        "ap": "capec/capec_00716",
+        "cwe": "cwe/cwe_01962"
+    },
+    {
+        "ap": "capec/capec_00820",
+        "cwe": "cwe/cwe_01905"
+    },
+    {
+        "ap": "capec/capec_00974",
+        "cwe": "cwe/cwe_01488"
+    },
+    {
+        "ap": "capec/capec_00716",
+        "cwe": "cwe/cwe_01771"
+    },
+    {
+        "ap": "capec/capec_01091",
+        "cwe": "cwe/cwe_02049"
+    },
+    {
+        "ap": "capec/capec_00691",
+        "cwe": "cwe/cwe_01757"
+    },
+    {
+        "ap": "capec/capec_00607",
+        "cwe": "cwe/cwe_01666"
+    },
+    {
+        "ap": "capec/capec_00948",
+        "cwe": "cwe/cwe_01627"
+    },
+    {
+        "ap": "capec/capec_01047",
+        "cwe": "cwe/cwe_01443"
+    },
+    {
+        "ap": "capec/capec_00593",
+        "cwe": "cwe/cwe_01352"
+    },
+    {
+        "ap": "capec/capec_00747",
+        "cwe": "cwe/cwe_01803"
+    },
+    {
+        "ap": "capec/capec_01087",
+        "cwe": "cwe/cwe_01955"
+    },
+    {
+        "ap": "capec/capec_01073",
+        "cwe": "cwe/cwe_01686"
+    },
+    {
+        "ap": "capec/capec_00902",
+        "cwe": "cwe/cwe_01848"
+    },
+    {
+        "ap": "capec/capec_00661",
+        "cwe": "cwe/cwe_01392"
+    },
+    {
+        "ap": "capec/capec_00721",
+        "cwe": "cwe/cwe_01745"
+    },
+    {
+        "ap": "capec/capec_00992",
+        "cwe": "cwe/cwe_01847"
+    },
+    {
+        "ap": "capec/capec_00776",
+        "cwe": "cwe/cwe_01968"
+    },
+    {
+        "ap": "capec/capec_00905",
+        "cwe": "cwe/cwe_01931"
+    },
+    {
+        "ap": "capec/capec_00879",
+        "cwe": "cwe/cwe_01520"
+    },
+    {
+        "ap": "capec/capec_00641",
+        "cwe": "cwe/cwe_01340"
+    },
+    {
+        "ap": "capec/capec_00620",
+        "cwe": "cwe/cwe_01449"
+    },
+    {
+        "ap": "capec/capec_00836",
+        "cwe": "cwe/cwe_01478"
+    },
+    {
+        "ap": "capec/capec_01032",
+        "cwe": "cwe/cwe_01811"
+    },
+    {
+        "ap": "capec/capec_00812",
+        "cwe": "cwe/cwe_01393"
+    },
+    {
+        "ap": "capec/capec_00933",
+        "cwe": "cwe/cwe_01814"
+    },
+    {
+        "ap": "capec/capec_00747",
+        "cwe": "cwe/cwe_01439"
+    },
+    {
+        "ap": "capec/capec_00598",
+        "cwe": "cwe/cwe_01491"
+    },
+    {
+        "ap": "capec/capec_00640",
+        "cwe": "cwe/cwe_01876"
+    },
+    {
+        "ap": "capec/capec_00735",
+        "cwe": "cwe/cwe_01488"
+    },
+    {
+        "ap": "capec/capec_00603",
+        "cwe": "cwe/cwe_01629"
+    },
+    {
+        "ap": "capec/capec_00643",
+        "cwe": "cwe/cwe_01152"
+    },
+    {
+        "ap": "capec/capec_00828",
+        "cwe": "cwe/cwe_01173"
+    },
+    {
+        "ap": "capec/capec_00593",
+        "cwe": "cwe/cwe_01358"
+    },
+    {
+        "ap": "capec/capec_00915",
+        "cwe": "cwe/cwe_01195"
+    },
+    {
+        "ap": "capec/capec_00644",
+        "cwe": "cwe/cwe_01480"
+    },
+    {
+        "ap": "capec/capec_01013",
+        "cwe": "cwe/cwe_01266"
+    },
+    {
+        "ap": "capec/capec_00802",
+        "cwe": "cwe/cwe_01586"
+    },
+    {
+        "ap": "capec/capec_01026",
+        "cwe": "cwe/cwe_01272"
+    },
+    {
+        "ap": "capec/capec_00947",
+        "cwe": "cwe/cwe_01446"
+    },
+    {
+        "ap": "capec/capec_00762",
+        "cwe": "cwe/cwe_01791"
+    },
+    {
+        "ap": "capec/capec_00917",
+        "cwe": "cwe/cwe_01872"
+    },
+    {
+        "ap": "capec/capec_00999",
+        "cwe": "cwe/cwe_01518"
+    },
+    {
+        "ap": "capec/capec_00590",
+        "cwe": "cwe/cwe_01546"
+    },
+    {
+        "ap": "capec/capec_00851",
+        "cwe": "cwe/cwe_01673"
+    },
+    {
+        "ap": "capec/capec_01125",
+        "cwe": "cwe/cwe_01950"
+    },
+    {
+        "ap": "capec/capec_01054",
+        "cwe": "cwe/cwe_01904"
+    },
+    {
+        "ap": "capec/capec_00623",
+        "cwe": "cwe/cwe_01705"
+    },
+    {
+        "ap": "capec/capec_00706",
+        "cwe": "cwe/cwe_01545"
+    },
+    {
+        "ap": "capec/capec_00980",
+        "cwe": "cwe/cwe_01302"
+    },
+    {
+        "ap": "capec/capec_00584",
+        "cwe": "cwe/cwe_01639"
+    },
+    {
+        "ap": "capec/capec_00722",
+        "cwe": "cwe/cwe_01763"
+    },
+    {
+        "ap": "capec/capec_01107",
+        "cwe": "cwe/cwe_01987"
+    },
+    {
+        "ap": "capec/capec_00732",
+        "cwe": "cwe/cwe_01208"
+    },
+    {
+        "ap": "capec/capec_00918",
+        "cwe": "cwe/cwe_01370"
+    },
+    {
+        "ap": "capec/capec_00761",
+        "cwe": "cwe/cwe_01379"
+    },
+    {
+        "ap": "capec/capec_00603",
+        "cwe": "cwe/cwe_01952"
+    },
+    {
+        "ap": "capec/capec_00753",
+        "cwe": "cwe/cwe_01887"
+    },
+    {
+        "ap": "capec/capec_00753",
+        "cwe": "cwe/cwe_01862"
+    },
+    {
+        "ap": "capec/capec_00661",
+        "cwe": "cwe/cwe_01564"
+    },
+    {
+        "ap": "capec/capec_00687",
+        "cwe": "cwe/cwe_01762"
+    },
+    {
+        "ap": "capec/capec_01049",
+        "cwe": "cwe/cwe_01854"
+    },
+    {
+        "ap": "capec/capec_00734",
+        "cwe": "cwe/cwe_01756"
+    },
+    {
+        "ap": "capec/capec_00622",
+        "cwe": "cwe/cwe_01385"
+    },
+    {
+        "ap": "capec/capec_00929",
+        "cwe": "cwe/cwe_01952"
+    },
+    {
+        "ap": "capec/capec_00966",
+        "cwe": "cwe/cwe_01154"
+    },
+    {
+        "ap": "capec/capec_00618",
+        "cwe": "cwe/cwe_01635"
+    },
+    {
+        "ap": "capec/capec_00672",
+        "cwe": "cwe/cwe_01493"
+    },
+    {
+        "ap": "capec/capec_00880",
+        "cwe": "cwe/cwe_01814"
+    },
+    {
+        "ap": "capec/capec_00735",
+        "cwe": "cwe/cwe_01596"
+    },
+    {
+        "ap": "capec/capec_00822",
+        "cwe": "cwe/cwe_01646"
+    },
+    {
+        "ap": "capec/capec_00945",
+        "cwe": "cwe/cwe_01293"
+    },
+    {
+        "ap": "capec/capec_00995",
+        "cwe": "cwe/cwe_01472"
+    },
+    {
+        "ap": "capec/capec_00857",
+        "cwe": "cwe/cwe_01949"
+    },
+    {
+        "ap": "capec/capec_01085",
+        "cwe": "cwe/cwe_01529"
+    },
+    {
+        "ap": "capec/capec_00596",
+        "cwe": "cwe/cwe_01445"
+    },
+    {
+        "ap": "capec/capec_01124",
+        "cwe": "cwe/cwe_02049"
+    },
+    {
+        "ap": "capec/capec_00876",
+        "cwe": "cwe/cwe_01690"
+    },
+    {
+        "ap": "capec/capec_01061",
+        "cwe": "cwe/cwe_01162"
+    },
+    {
+        "ap": "capec/capec_01125",
+        "cwe": "cwe/cwe_01711"
+    },
+    {
+        "ap": "capec/capec_00849",
+        "cwe": "cwe/cwe_01830"
+    },
+    {
+        "ap": "capec/capec_00620",
+        "cwe": "cwe/cwe_01593"
+    },
+    {
+        "ap": "capec/capec_00985",
+        "cwe": "cwe/cwe_01865"
+    },
+    {
+        "ap": "capec/capec_00703",
+        "cwe": "cwe/cwe_01540"
+    },
+    {
+        "ap": "capec/capec_00935",
+        "cwe": "cwe/cwe_01634"
+    },
+    {
+        "ap": "capec/capec_00633",
+        "cwe": "cwe/cwe_01148"
+    },
+    {
+        "ap": "capec/capec_00860",
+        "cwe": "cwe/cwe_01884"
+    },
+    {
+        "ap": "capec/capec_00616",
+        "cwe": "cwe/cwe_01387"
+    },
+    {
+        "ap": "capec/capec_00877",
+        "cwe": "cwe/cwe_01829"
+    },
+    {
+        "ap": "capec/capec_00793",
+        "cwe": "cwe/cwe_01907"
+    },
+    {
+        "ap": "capec/capec_01122",
+        "cwe": "cwe/cwe_01655"
+    },
+    {
+        "ap": "capec/capec_00929",
+        "cwe": "cwe/cwe_01522"
+    },
+    {
+        "ap": "capec/capec_00837",
+        "cwe": "cwe/cwe_01340"
+    },
+    {
+        "ap": "capec/capec_00699",
+        "cwe": "cwe/cwe_01706"
+    },
+    {
+        "ap": "capec/capec_00918",
+        "cwe": "cwe/cwe_01951"
+    },
+    {
+        "ap": "capec/capec_00829",
+        "cwe": "cwe/cwe_01727"
+    },
+    {
+        "ap": "capec/capec_01126",
+        "cwe": "cwe/cwe_01824"
+    },
+    {
+        "ap": "capec/capec_00942",
+        "cwe": "cwe/cwe_01293"
+    },
+    {
+        "ap": "capec/capec_00737",
+        "cwe": "cwe/cwe_01465"
+    },
+    {
+        "ap": "capec/capec_00590",
+        "cwe": "cwe/cwe_01725"
+    },
+    {
+        "ap": "capec/capec_00633",
+        "cwe": "cwe/cwe_01705"
+    },
+    {
+        "ap": "capec/capec_00740",
+        "cwe": "cwe/cwe_01479"
+    },
+    {
+        "ap": "capec/capec_00952",
+        "cwe": "cwe/cwe_01425"
+    },
+    {
+        "ap": "capec/capec_00881",
+        "cwe": "cwe/cwe_01457"
+    },
+    {
+        "ap": "capec/capec_01087",
+        "cwe": "cwe/cwe_01928"
+    },
+    {
+        "ap": "capec/capec_00994",
+        "cwe": "cwe/cwe_01742"
+    },
+    {
+        "ap": "capec/capec_01022",
+        "cwe": "cwe/cwe_01301"
+    },
+    {
+        "ap": "capec/capec_00582",
+        "cwe": "cwe/cwe_01934"
+    },
+    {
+        "ap": "capec/capec_00725",
+        "cwe": "cwe/cwe_01709"
+    },
+    {
+        "ap": "capec/capec_00625",
+        "cwe": "cwe/cwe_01579"
+    },
+    {
+        "ap": "capec/capec_00709",
+        "cwe": "cwe/cwe_01476"
+    },
+    {
+        "ap": "capec/capec_00590",
+        "cwe": "cwe/cwe_01865"
+    },
+    {
+        "ap": "capec/capec_01072",
+        "cwe": "cwe/cwe_01807"
+    },
+    {
+        "ap": "capec/capec_00844",
+        "cwe": "cwe/cwe_01892"
+    },
+    {
+        "ap": "capec/capec_00773",
+        "cwe": "cwe/cwe_01198"
+    },
+    {
+        "ap": "capec/capec_01015",
+        "cwe": "cwe/cwe_01412"
+    },
+    {
+        "ap": "capec/capec_00759",
+        "cwe": "cwe/cwe_01669"
+    },
+    {
+        "ap": "capec/capec_00754",
+        "cwe": "cwe/cwe_01191"
+    },
+    {
+        "ap": "capec/capec_00742",
+        "cwe": "cwe/cwe_01720"
+    },
+    {
+        "ap": "capec/capec_00693",
+        "cwe": "cwe/cwe_01643"
+    },
+    {
+        "ap": "capec/capec_00974",
+        "cwe": "cwe/cwe_01899"
+    },
+    {
+        "ap": "capec/capec_01026",
+        "cwe": "cwe/cwe_01399"
+    },
+    {
+        "ap": "capec/capec_00899",
+        "cwe": "cwe/cwe_01418"
+    },
+    {
+        "ap": "capec/capec_00594",
+        "cwe": "cwe/cwe_01565"
+    },
+    {
+        "ap": "capec/capec_00868",
+        "cwe": "cwe/cwe_01391"
+    },
+    {
+        "ap": "capec/capec_01120",
+        "cwe": "cwe/cwe_01694"
+    },
+    {
+        "ap": "capec/capec_00906",
+        "cwe": "cwe/cwe_01477"
+    },
+    {
+        "ap": "capec/capec_00775",
+        "cwe": "cwe/cwe_01849"
+    },
+    {
+        "ap": "capec/capec_01023",
+        "cwe": "cwe/cwe_01937"
+    },
+    {
+        "ap": "capec/capec_00726",
+        "cwe": "cwe/cwe_01992"
+    },
+    {
+        "ap": "capec/capec_00587",
+        "cwe": "cwe/cwe_01895"
+    },
+    {
+        "ap": "capec/capec_01104",
+        "cwe": "cwe/cwe_01286"
+    },
+    {
+        "ap": "capec/capec_00974",
+        "cwe": "cwe/cwe_01496"
+    },
+    {
+        "ap": "capec/capec_01056",
+        "cwe": "cwe/cwe_01164"
+    },
+    {
+        "ap": "capec/capec_01002",
+        "cwe": "cwe/cwe_01778"
+    },
+    {
+        "ap": "capec/capec_00814",
+        "cwe": "cwe/cwe_02048"
+    },
+    {
+        "ap": "capec/capec_00597",
+        "cwe": "cwe/cwe_01497"
+    },
+    {
+        "ap": "capec/capec_01122",
+        "cwe": "cwe/cwe_01289"
+    },
+    {
+        "ap": "capec/capec_00780",
+        "cwe": "cwe/cwe_01773"
+    },
+    {
+        "ap": "capec/capec_00943",
+        "cwe": "cwe/cwe_01769"
+    },
+    {
+        "ap": "capec/capec_01089",
+        "cwe": "cwe/cwe_01146"
+    },
+    {
+        "ap": "capec/capec_00836",
+        "cwe": "cwe/cwe_01712"
+    },
+    {
+        "ap": "capec/capec_00828",
+        "cwe": "cwe/cwe_01408"
+    },
+    {
+        "ap": "capec/capec_00770",
+        "cwe": "cwe/cwe_01903"
+    },
+    {
+        "ap": "capec/capec_01011",
+        "cwe": "cwe/cwe_01206"
+    },
+    {
+        "ap": "capec/capec_01039",
+        "cwe": "cwe/cwe_01369"
+    },
+    {
+        "ap": "capec/capec_01041",
+        "cwe": "cwe/cwe_02011"
+    },
+    {
+        "ap": "capec/capec_01102",
+        "cwe": "cwe/cwe_02043"
+    },
+    {
+        "ap": "capec/capec_00683",
+        "cwe": "cwe/cwe_01319"
+    },
+    {
+        "ap": "capec/capec_00749",
+        "cwe": "cwe/cwe_01578"
+    },
+    {
+        "ap": "capec/capec_00647",
+        "cwe": "cwe/cwe_01563"
+    },
+    {
+        "ap": "capec/capec_00985",
+        "cwe": "cwe/cwe_01405"
+    },
+    {
+        "ap": "capec/capec_00839",
+        "cwe": "cwe/cwe_01574"
+    },
+    {
+        "ap": "capec/capec_00945",
+        "cwe": "cwe/cwe_01751"
+    },
+    {
+        "ap": "capec/capec_00916",
+        "cwe": "cwe/cwe_01219"
+    },
+    {
+        "ap": "capec/capec_00895",
+        "cwe": "cwe/cwe_01157"
+    },
+    {
+        "ap": "capec/capec_01085",
+        "cwe": "cwe/cwe_01138"
+    },
+    {
+        "ap": "capec/capec_00837",
+        "cwe": "cwe/cwe_01334"
+    },
+    {
+        "ap": "capec/capec_00988",
+        "cwe": "cwe/cwe_01522"
+    },
+    {
+        "ap": "capec/capec_01027",
+        "cwe": "cwe/cwe_01921"
+    },
+    {
+        "ap": "capec/capec_00979",
+        "cwe": "cwe/cwe_01840"
+    },
+    {
+        "ap": "capec/capec_00620",
+        "cwe": "cwe/cwe_01723"
+    },
+    {
+        "ap": "capec/capec_01057",
+        "cwe": "cwe/cwe_01490"
+    },
+    {
+        "ap": "capec/capec_00710",
+        "cwe": "cwe/cwe_01704"
+    },
+    {
+        "ap": "capec/capec_00866",
+        "cwe": "cwe/cwe_01462"
+    },
+    {
+        "ap": "capec/capec_00605",
+        "cwe": "cwe/cwe_01534"
+    },
+    {
+        "ap": "capec/capec_01066",
+        "cwe": "cwe/cwe_01661"
+    },
+    {
+        "ap": "capec/capec_00719",
+        "cwe": "cwe/cwe_01169"
+    },
+    {
+        "ap": "capec/capec_00664",
+        "cwe": "cwe/cwe_01706"
+    },
+    {
+        "ap": "capec/capec_00936",
+        "cwe": "cwe/cwe_01496"
+    },
+    {
+        "ap": "capec/capec_00585",
+        "cwe": "cwe/cwe_01198"
+    },
+    {
+        "ap": "capec/capec_00776",
+        "cwe": "cwe/cwe_01861"
+    },
+    {
+        "ap": "capec/capec_00694",
+        "cwe": "cwe/cwe_01814"
+    },
+    {
+        "ap": "capec/capec_01063",
+        "cwe": "cwe/cwe_01171"
+    },
+    {
+        "ap": "capec/capec_00903",
+        "cwe": "cwe/cwe_01988"
+    },
+    {
+        "ap": "capec/capec_00606",
+        "cwe": "cwe/cwe_01449"
+    },
+    {
+        "ap": "capec/capec_00983",
+        "cwe": "cwe/cwe_01255"
+    },
+    {
+        "ap": "capec/capec_00862",
+        "cwe": "cwe/cwe_01543"
+    },
+    {
+        "ap": "capec/capec_00726",
+        "cwe": "cwe/cwe_01736"
+    },
+    {
+        "ap": "capec/capec_00732",
+        "cwe": "cwe/cwe_01540"
+    },
+    {
+        "ap": "capec/capec_00894",
+        "cwe": "cwe/cwe_01650"
+    },
+    {
+        "ap": "capec/capec_00642",
+        "cwe": "cwe/cwe_01293"
+    },
+    {
+        "ap": "capec/capec_00709",
+        "cwe": "cwe/cwe_02041"
+    },
+    {
+        "ap": "capec/capec_00718",
+        "cwe": "cwe/cwe_01619"
+    },
+    {
+        "ap": "capec/capec_00628",
+        "cwe": "cwe/cwe_01874"
+    },
+    {
+        "ap": "capec/capec_01113",
+        "cwe": "cwe/cwe_01171"
+    },
+    {
+        "ap": "capec/capec_00977",
+        "cwe": "cwe/cwe_01311"
+    },
+    {
+        "ap": "capec/capec_00933",
+        "cwe": "cwe/cwe_01946"
+    },
+    {
+        "ap": "capec/capec_00665",
+        "cwe": "cwe/cwe_01209"
+    },
+    {
+        "ap": "capec/capec_00759",
+        "cwe": "cwe/cwe_01959"
+    },
+    {
+        "ap": "capec/capec_00852",
+        "cwe": "cwe/cwe_01333"
+    },
+    {
+        "ap": "capec/capec_00848",
+        "cwe": "cwe/cwe_01462"
+    },
+    {
+        "ap": "capec/capec_00840",
+        "cwe": "cwe/cwe_01928"
+    },
+    {
+        "ap": "capec/capec_00846",
+        "cwe": "cwe/cwe_01656"
+    },
+    {
+        "ap": "capec/capec_01048",
+        "cwe": "cwe/cwe_01285"
+    },
+    {
+        "ap": "capec/capec_01040",
+        "cwe": "cwe/cwe_01692"
+    },
+    {
+        "ap": "capec/capec_00737",
+        "cwe": "cwe/cwe_01166"
+    },
+    {
+        "ap": "capec/capec_00762",
+        "cwe": "cwe/cwe_01783"
+    },
+    {
+        "ap": "capec/capec_01105",
+        "cwe": "cwe/cwe_01161"
+    },
+    {
+        "ap": "capec/capec_00904",
+        "cwe": "cwe/cwe_01964"
+    },
+    {
+        "ap": "capec/capec_00654",
+        "cwe": "cwe/cwe_01324"
+    },
+    {
+        "ap": "capec/capec_01048",
+        "cwe": "cwe/cwe_01752"
+    },
+    {
+        "ap": "capec/capec_00825",
+        "cwe": "cwe/cwe_01958"
+    },
+    {
+        "ap": "capec/capec_01050",
+        "cwe": "cwe/cwe_01661"
+    },
+    {
+        "ap": "capec/capec_00744",
+        "cwe": "cwe/cwe_01853"
+    },
+    {
+        "ap": "capec/capec_00922",
+        "cwe": "cwe/cwe_01797"
+    },
+    {
+        "ap": "capec/capec_00719",
+        "cwe": "cwe/cwe_01614"
+    },
+    {
+        "ap": "capec/capec_00639",
+        "cwe": "cwe/cwe_01683"
+    },
+    {
+        "ap": "capec/capec_00665",
+        "cwe": "cwe/cwe_01967"
+    },
+    {
+        "ap": "capec/capec_01111",
+        "cwe": "cwe/cwe_01478"
+    },
+    {
+        "ap": "capec/capec_00583",
+        "cwe": "cwe/cwe_01959"
+    },
+    {
+        "ap": "capec/capec_00662",
+        "cwe": "cwe/cwe_01233"
+    },
+    {
+        "ap": "capec/capec_01018",
+        "cwe": "cwe/cwe_01749"
+    },
+    {
+        "ap": "capec/capec_00941",
+        "cwe": "cwe/cwe_01710"
+    },
+    {
+        "ap": "capec/capec_01043",
+        "cwe": "cwe/cwe_01470"
+    },
+    {
+        "ap": "capec/capec_00968",
+        "cwe": "cwe/cwe_01651"
+    },
+    {
+        "ap": "capec/capec_00951",
+        "cwe": "cwe/cwe_01988"
+    },
+    {
+        "ap": "capec/capec_00702",
+        "cwe": "cwe/cwe_01266"
+    },
+    {
+        "ap": "capec/capec_00905",
+        "cwe": "cwe/cwe_01150"
+    },
+    {
+        "ap": "capec/capec_00767",
+        "cwe": "cwe/cwe_01878"
+    },
+    {
+        "ap": "capec/capec_00709",
+        "cwe": "cwe/cwe_01146"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "cwe": "cwe/cwe_02034"
+    },
+    {
+        "ap": "capec/capec_00778",
+        "cwe": "cwe/cwe_01172"
+    },
+    {
+        "ap": "capec/capec_01004",
+        "cwe": "cwe/cwe_01787"
+    },
+    {
+        "ap": "capec/capec_00644",
+        "cwe": "cwe/cwe_01842"
+    },
+    {
+        "ap": "capec/capec_00899",
+        "cwe": "cwe/cwe_01942"
+    },
+    {
+        "ap": "capec/capec_00979",
+        "cwe": "cwe/cwe_01180"
+    },
+    {
+        "ap": "capec/capec_00753",
+        "cwe": "cwe/cwe_01493"
+    },
+    {
+        "ap": "capec/capec_00660",
+        "cwe": "cwe/cwe_01545"
+    },
+    {
+        "ap": "capec/capec_00636",
+        "cwe": "cwe/cwe_01578"
+    },
+    {
+        "ap": "capec/capec_00944",
+        "cwe": "cwe/cwe_01745"
+    },
+    {
+        "ap": "capec/capec_00842",
+        "cwe": "cwe/cwe_01815"
+    },
+    {
+        "ap": "capec/capec_00898",
+        "cwe": "cwe/cwe_01703"
+    },
+    {
+        "ap": "capec/capec_01045",
+        "cwe": "cwe/cwe_01549"
+    },
+    {
+        "ap": "capec/capec_00766",
+        "cwe": "cwe/cwe_01158"
+    },
+    {
+        "ap": "capec/capec_01045",
+        "cwe": "cwe/cwe_01948"
+    },
+    {
+        "ap": "capec/capec_00851",
+        "cwe": "cwe/cwe_01322"
+    },
+    {
+        "ap": "capec/capec_00977",
+        "cwe": "cwe/cwe_01192"
+    },
+    {
+        "ap": "capec/capec_00947",
+        "cwe": "cwe/cwe_01225"
+    },
+    {
+        "ap": "capec/capec_00707",
+        "cwe": "cwe/cwe_01153"
+    },
+    {
+        "ap": "capec/capec_00940",
+        "cwe": "cwe/cwe_01148"
+    },
+    {
+        "ap": "capec/capec_00762",
+        "cwe": "cwe/cwe_01540"
+    },
+    {
+        "ap": "capec/capec_00594",
+        "cwe": "cwe/cwe_01457"
+    },
+    {
+        "ap": "capec/capec_01048",
+        "cwe": "cwe/cwe_01936"
+    },
+    {
+        "ap": "capec/capec_01088",
+        "cwe": "cwe/cwe_01614"
+    },
+    {
+        "ap": "capec/capec_00663",
+        "cwe": "cwe/cwe_02005"
+    },
+    {
+        "ap": "capec/capec_00633",
+        "cwe": "cwe/cwe_01675"
+    },
+    {
+        "ap": "capec/capec_00992",
+        "cwe": "cwe/cwe_01936"
+    },
+    {
+        "ap": "capec/capec_00849",
+        "cwe": "cwe/cwe_01155"
+    },
+    {
+        "ap": "capec/capec_01109",
+        "cwe": "cwe/cwe_01225"
+    },
+    {
+        "ap": "capec/capec_00663",
+        "cwe": "cwe/cwe_01468"
+    },
+    {
+        "ap": "capec/capec_00948",
+        "cwe": "cwe/cwe_01227"
+    },
+    {
+        "ap": "capec/capec_01063",
+        "cwe": "cwe/cwe_01160"
+    },
+    {
+        "ap": "capec/capec_00738",
+        "cwe": "cwe/cwe_01655"
+    },
+    {
+        "ap": "capec/capec_00874",
+        "cwe": "cwe/cwe_01164"
+    },
+    {
+        "ap": "capec/capec_00581",
+        "cwe": "cwe/cwe_01512"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "cwe": "cwe/cwe_01287"
+    },
+    {
+        "ap": "capec/capec_00731",
+        "cwe": "cwe/cwe_01291"
+    },
+    {
+        "ap": "capec/capec_00759",
+        "cwe": "cwe/cwe_01925"
+    },
+    {
+        "ap": "capec/capec_00743",
+        "cwe": "cwe/cwe_01782"
+    },
+    {
+        "ap": "capec/capec_00829",
+        "cwe": "cwe/cwe_02026"
+    },
+    {
+        "ap": "capec/capec_00917",
+        "cwe": "cwe/cwe_01151"
+    },
+    {
+        "ap": "capec/capec_01075",
+        "cwe": "cwe/cwe_02036"
+    },
+    {
+        "ap": "capec/capec_00988",
+        "cwe": "cwe/cwe_01172"
+    },
+    {
+        "ap": "capec/capec_00812",
+        "cwe": "cwe/cwe_01373"
+    },
+    {
+        "ap": "capec/capec_00869",
+        "cwe": "cwe/cwe_01463"
+    },
+    {
+        "ap": "capec/capec_00755",
+        "cwe": "cwe/cwe_01370"
+    },
+    {
+        "ap": "capec/capec_00941",
+        "cwe": "cwe/cwe_01358"
+    },
+    {
+        "ap": "capec/capec_00748",
+        "cwe": "cwe/cwe_02026"
+    },
+    {
+        "ap": "capec/capec_01011",
+        "cwe": "cwe/cwe_01601"
+    },
+    {
+        "ap": "capec/capec_00953",
+        "cwe": "cwe/cwe_02024"
+    },
+    {
+        "ap": "capec/capec_00722",
+        "cwe": "cwe/cwe_01522"
+    },
+    {
+        "ap": "capec/capec_00594",
+        "cwe": "cwe/cwe_01293"
+    },
+    {
+        "ap": "capec/capec_00586",
+        "cwe": "cwe/cwe_01830"
+    },
+    {
+        "ap": "capec/capec_00980",
+        "cwe": "cwe/cwe_01862"
+    },
+    {
+        "ap": "capec/capec_00757",
+        "cwe": "cwe/cwe_01279"
+    },
+    {
+        "ap": "capec/capec_00600",
+        "cwe": "cwe/cwe_01152"
+    },
+    {
+        "ap": "capec/capec_00912",
+        "cwe": "cwe/cwe_01649"
+    },
+    {
+        "ap": "capec/capec_00584",
+        "cwe": "cwe/cwe_01166"
+    },
+    {
+        "ap": "capec/capec_00629",
+        "cwe": "cwe/cwe_01922"
+    },
+    {
+        "ap": "capec/capec_00695",
+        "cwe": "cwe/cwe_01713"
+    },
+    {
+        "ap": "capec/capec_00732",
+        "cwe": "cwe/cwe_01924"
+    },
+    {
+        "ap": "capec/capec_00737",
+        "cwe": "cwe/cwe_01816"
+    },
+    {
+        "ap": "capec/capec_00969",
+        "cwe": "cwe/cwe_01933"
+    },
+    {
+        "ap": "capec/capec_00608",
+        "cwe": "cwe/cwe_01555"
+    },
+    {
+        "ap": "capec/capec_01027",
+        "cwe": "cwe/cwe_01708"
+    },
+    {
+        "ap": "capec/capec_00921",
+        "cwe": "cwe/cwe_01855"
+    },
+    {
+        "ap": "capec/capec_00834",
+        "cwe": "cwe/cwe_01268"
+    },
+    {
+        "ap": "capec/capec_00953",
+        "cwe": "cwe/cwe_01649"
+    },
+    {
+        "ap": "capec/capec_00802",
+        "cwe": "cwe/cwe_01673"
+    },
+    {
+        "ap": "capec/capec_00990",
+        "cwe": "cwe/cwe_01201"
+    },
+    {
+        "ap": "capec/capec_00713",
+        "cwe": "cwe/cwe_01544"
+    },
+    {
+        "ap": "capec/capec_00940",
+        "cwe": "cwe/cwe_01225"
+    },
+    {
+        "ap": "capec/capec_01022",
+        "cwe": "cwe/cwe_02044"
+    },
+    {
+        "ap": "capec/capec_01027",
+        "cwe": "cwe/cwe_01378"
+    },
+    {
+        "ap": "capec/capec_01063",
+        "cwe": "cwe/cwe_01517"
+    },
+    {
+        "ap": "capec/capec_00811",
+        "cwe": "cwe/cwe_01531"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "cwe": "cwe/cwe_01787"
+    },
+    {
+        "ap": "capec/capec_01073",
+        "cwe": "cwe/cwe_01533"
+    },
+    {
+        "ap": "capec/capec_00651",
+        "cwe": "cwe/cwe_01982"
+    },
+    {
+        "ap": "capec/capec_00839",
+        "cwe": "cwe/cwe_01409"
+    },
+    {
+        "ap": "capec/capec_01120",
+        "cwe": "cwe/cwe_01507"
+    },
+    {
+        "ap": "capec/capec_00603",
+        "cwe": "cwe/cwe_01745"
+    },
+    {
+        "ap": "capec/capec_01066",
+        "cwe": "cwe/cwe_02024"
+    },
+    {
+        "ap": "capec/capec_00823",
+        "cwe": "cwe/cwe_01409"
+    },
+    {
+        "ap": "capec/capec_00622",
+        "cwe": "cwe/cwe_01752"
+    },
+    {
+        "ap": "capec/capec_00910",
+        "cwe": "cwe/cwe_02015"
+    },
+    {
+        "ap": "capec/capec_00981",
+        "cwe": "cwe/cwe_01768"
+    },
+    {
+        "ap": "capec/capec_00690",
+        "cwe": "cwe/cwe_01674"
+    },
+    {
+        "ap": "capec/capec_00630",
+        "cwe": "cwe/cwe_01274"
+    },
+    {
+        "ap": "capec/capec_00982",
+        "cwe": "cwe/cwe_01154"
+    },
+    {
+        "ap": "capec/capec_01012",
+        "cwe": "cwe/cwe_01875"
+    },
+    {
+        "ap": "capec/capec_00983",
+        "cwe": "cwe/cwe_01570"
+    },
+    {
+        "ap": "capec/capec_00688",
+        "cwe": "cwe/cwe_01857"
+    },
+    {
+        "ap": "capec/capec_01052",
+        "cwe": "cwe/cwe_01745"
+    },
+    {
+        "ap": "capec/capec_01054",
+        "cwe": "cwe/cwe_01292"
+    },
+    {
+        "ap": "capec/capec_00754",
+        "cwe": "cwe/cwe_01475"
+    },
+    {
+        "ap": "capec/capec_01066",
+        "cwe": "cwe/cwe_01547"
+    },
+    {
+        "ap": "capec/capec_00743",
+        "cwe": "cwe/cwe_01731"
+    },
+    {
+        "ap": "capec/capec_00871",
+        "cwe": "cwe/cwe_01907"
+    },
+    {
+        "ap": "capec/capec_01096",
+        "cwe": "cwe/cwe_01242"
+    },
+    {
+        "ap": "capec/capec_00958",
+        "cwe": "cwe/cwe_01480"
+    },
+    {
+        "ap": "capec/capec_00727",
+        "cwe": "cwe/cwe_01770"
+    },
+    {
+        "ap": "capec/capec_00947",
+        "cwe": "cwe/cwe_01911"
+    },
+    {
+        "ap": "capec/capec_01065",
+        "cwe": "cwe/cwe_01772"
+    },
+    {
+        "ap": "capec/capec_01112",
+        "cwe": "cwe/cwe_01898"
+    },
+    {
+        "ap": "capec/capec_00636",
+        "cwe": "cwe/cwe_01327"
+    },
+    {
+        "ap": "capec/capec_00844",
+        "cwe": "cwe/cwe_01308"
+    },
+    {
+        "ap": "capec/capec_00913",
+        "cwe": "cwe/cwe_01430"
+    },
+    {
+        "ap": "capec/capec_00970",
+        "cwe": "cwe/cwe_01776"
+    },
+    {
+        "ap": "capec/capec_00623",
+        "cwe": "cwe/cwe_01425"
+    },
+    {
+        "ap": "capec/capec_01022",
+        "cwe": "cwe/cwe_01162"
+    },
+    {
+        "ap": "capec/capec_01001",
+        "cwe": "cwe/cwe_01402"
+    },
+    {
+        "ap": "capec/capec_00965",
+        "cwe": "cwe/cwe_01872"
+    },
+    {
+        "ap": "capec/capec_00794",
+        "cwe": "cwe/cwe_01482"
+    },
+    {
+        "ap": "capec/capec_00718",
+        "cwe": "cwe/cwe_01262"
+    },
+    {
+        "ap": "capec/capec_00693",
+        "cwe": "cwe/cwe_01754"
+    },
+    {
+        "ap": "capec/capec_00946",
+        "cwe": "cwe/cwe_01296"
+    },
+    {
+        "ap": "capec/capec_00612",
+        "cwe": "cwe/cwe_01567"
+    },
+    {
+        "ap": "capec/capec_00988",
+        "cwe": "cwe/cwe_01601"
+    },
+    {
+        "ap": "capec/capec_00658",
+        "cwe": "cwe/cwe_01784"
+    },
+    {
+        "ap": "capec/capec_00660",
+        "cwe": "cwe/cwe_01923"
+    },
+    {
+        "ap": "capec/capec_01016",
+        "cwe": "cwe/cwe_01684"
+    },
+    {
+        "ap": "capec/capec_00722",
+        "cwe": "cwe/cwe_01300"
+    },
+    {
+        "ap": "capec/capec_00737",
+        "cwe": "cwe/cwe_01339"
+    },
+    {
+        "ap": "capec/capec_00749",
+        "cwe": "cwe/cwe_01360"
+    },
+    {
+        "ap": "capec/capec_00611",
+        "cwe": "cwe/cwe_01664"
+    },
+    {
+        "ap": "capec/capec_00719",
+        "cwe": "cwe/cwe_01965"
+    },
+    {
+        "ap": "capec/capec_01085",
+        "cwe": "cwe/cwe_01492"
+    },
+    {
+        "ap": "capec/capec_00875",
+        "cwe": "cwe/cwe_01860"
+    },
+    {
+        "ap": "capec/capec_00924",
+        "cwe": "cwe/cwe_01827"
+    },
+    {
+        "ap": "capec/capec_00702",
+        "cwe": "cwe/cwe_01948"
+    },
+    {
+        "ap": "capec/capec_00999",
+        "cwe": "cwe/cwe_01918"
+    },
+    {
+        "ap": "capec/capec_00849",
+        "cwe": "cwe/cwe_02047"
+    },
+    {
+        "ap": "capec/capec_00743",
+        "cwe": "cwe/cwe_01477"
+    },
+    {
+        "ap": "capec/capec_01094",
+        "cwe": "cwe/cwe_01466"
+    },
+    {
+        "ap": "capec/capec_01126",
+        "cwe": "cwe/cwe_01838"
+    },
+    {
+        "ap": "capec/capec_00729",
+        "cwe": "cwe/cwe_01512"
+    },
+    {
+        "ap": "capec/capec_00893",
+        "cwe": "cwe/cwe_01367"
+    },
+    {
+        "ap": "capec/capec_00968",
+        "cwe": "cwe/cwe_01481"
+    },
+    {
+        "ap": "capec/capec_00980",
+        "cwe": "cwe/cwe_01609"
+    },
+    {
+        "ap": "capec/capec_01104",
+        "cwe": "cwe/cwe_01440"
+    },
+    {
+        "ap": "capec/capec_01000",
+        "cwe": "cwe/cwe_01543"
+    },
+    {
+        "ap": "capec/capec_00681",
+        "cwe": "cwe/cwe_01826"
+    },
+    {
+        "ap": "capec/capec_00738",
+        "cwe": "cwe/cwe_01278"
+    },
+    {
+        "ap": "capec/capec_00586",
+        "cwe": "cwe/cwe_01724"
+    },
+    {
+        "ap": "capec/capec_01110",
+        "cwe": "cwe/cwe_01236"
+    },
+    {
+        "ap": "capec/capec_00790",
+        "cwe": "cwe/cwe_01737"
+    },
+    {
+        "ap": "capec/capec_01106",
+        "cwe": "cwe/cwe_01240"
+    },
+    {
+        "ap": "capec/capec_00854",
+        "cwe": "cwe/cwe_01832"
+    },
+    {
+        "ap": "capec/capec_00753",
+        "cwe": "cwe/cwe_01511"
+    },
+    {
+        "ap": "capec/capec_00668",
+        "cwe": "cwe/cwe_01939"
+    },
+    {
+        "ap": "capec/capec_00617",
+        "cwe": "cwe/cwe_01137"
+    },
+    {
+        "ap": "capec/capec_00699",
+        "cwe": "cwe/cwe_02040"
+    },
+    {
+        "ap": "capec/capec_00951",
+        "cwe": "cwe/cwe_01963"
+    },
+    {
+        "ap": "capec/capec_01073",
+        "cwe": "cwe/cwe_01452"
+    },
+    {
+        "ap": "capec/capec_00691",
+        "cwe": "cwe/cwe_01819"
+    },
+    {
+        "ap": "capec/capec_01044",
+        "cwe": "cwe/cwe_01504"
+    },
+    {
+        "ap": "capec/capec_00840",
+        "cwe": "cwe/cwe_01809"
+    },
+    {
+        "ap": "capec/capec_01079",
+        "cwe": "cwe/cwe_01958"
+    },
+    {
+        "ap": "capec/capec_00815",
+        "cwe": "cwe/cwe_01289"
+    },
+    {
+        "ap": "capec/capec_00660",
+        "cwe": "cwe/cwe_01926"
+    },
+    {
+        "ap": "capec/capec_01101",
+        "cwe": "cwe/cwe_02034"
+    },
+    {
+        "ap": "capec/capec_00753",
+        "cwe": "cwe/cwe_01153"
+    },
+    {
+        "ap": "capec/capec_00751",
+        "cwe": "cwe/cwe_02026"
+    },
+    {
+        "ap": "capec/capec_01110",
+        "cwe": "cwe/cwe_01545"
+    },
+    {
+        "ap": "capec/capec_00794",
+        "cwe": "cwe/cwe_01575"
+    },
+    {
+        "ap": "capec/capec_00995",
+        "cwe": "cwe/cwe_01397"
+    },
+    {
+        "ap": "capec/capec_00602",
+        "cwe": "cwe/cwe_01728"
+    },
+    {
+        "ap": "capec/capec_00718",
+        "cwe": "cwe/cwe_01524"
+    },
+    {
+        "ap": "capec/capec_00756",
+        "cwe": "cwe/cwe_02033"
+    },
+    {
+        "ap": "capec/capec_01032",
+        "cwe": "cwe/cwe_01705"
+    },
+    {
+        "ap": "capec/capec_00635",
+        "cwe": "cwe/cwe_01511"
+    },
+    {
+        "ap": "capec/capec_00669",
+        "cwe": "cwe/cwe_01786"
+    },
+    {
+        "ap": "capec/capec_00995",
+        "cwe": "cwe/cwe_01469"
+    },
+    {
+        "ap": "capec/capec_00819",
+        "cwe": "cwe/cwe_01645"
+    },
+    {
+        "ap": "capec/capec_01047",
+        "cwe": "cwe/cwe_01167"
+    },
+    {
+        "ap": "capec/capec_01072",
+        "cwe": "cwe/cwe_01761"
+    },
+    {
+        "ap": "capec/capec_00685",
+        "cwe": "cwe/cwe_01402"
+    },
+    {
+        "ap": "capec/capec_01100",
+        "cwe": "cwe/cwe_01629"
+    },
+    {
+        "ap": "capec/capec_00984",
+        "cwe": "cwe/cwe_01611"
+    },
+    {
+        "ap": "capec/capec_00852",
+        "cwe": "cwe/cwe_01312"
+    },
+    {
+        "ap": "capec/capec_00816",
+        "cwe": "cwe/cwe_01680"
+    },
+    {
+        "ap": "capec/capec_00954",
+        "cwe": "cwe/cwe_01290"
+    },
+    {
+        "ap": "capec/capec_00890",
+        "cwe": "cwe/cwe_01999"
+    },
+    {
+        "ap": "capec/capec_00728",
+        "cwe": "cwe/cwe_01594"
+    },
+    {
+        "ap": "capec/capec_00651",
+        "cwe": "cwe/cwe_01197"
+    },
+    {
+        "ap": "capec/capec_01070",
+        "cwe": "cwe/cwe_01529"
+    },
+    {
+        "ap": "capec/capec_01000",
+        "cwe": "cwe/cwe_01696"
+    },
+    {
+        "ap": "capec/capec_00675",
+        "cwe": "cwe/cwe_01398"
+    },
+    {
+        "ap": "capec/capec_01074",
+        "cwe": "cwe/cwe_01362"
+    },
+    {
+        "ap": "capec/capec_00694",
+        "cwe": "cwe/cwe_01430"
+    },
+    {
+        "ap": "capec/capec_00725",
+        "cwe": "cwe/cwe_01495"
+    },
+    {
+        "ap": "capec/capec_00677",
+        "cwe": "cwe/cwe_01268"
+    },
+    {
+        "ap": "capec/capec_00639",
+        "cwe": "cwe/cwe_01969"
+    },
+    {
+        "ap": "capec/capec_00721",
+        "cwe": "cwe/cwe_01727"
+    },
+    {
+        "ap": "capec/capec_00784",
+        "cwe": "cwe/cwe_01134"
+    },
+    {
+        "ap": "capec/capec_00614",
+        "cwe": "cwe/cwe_02009"
+    },
+    {
+        "ap": "capec/capec_00995",
+        "cwe": "cwe/cwe_01698"
+    },
+    {
+        "ap": "capec/capec_01083",
+        "cwe": "cwe/cwe_01858"
+    },
+    {
+        "ap": "capec/capec_00690",
+        "cwe": "cwe/cwe_01611"
+    },
+    {
+        "ap": "capec/capec_00936",
+        "cwe": "cwe/cwe_02022"
+    },
+    {
+        "ap": "capec/capec_00932",
+        "cwe": "cwe/cwe_02020"
+    },
+    {
+        "ap": "capec/capec_00680",
+        "cwe": "cwe/cwe_01829"
+    },
+    {
+        "ap": "capec/capec_00586",
+        "cwe": "cwe/cwe_01374"
+    },
+    {
+        "ap": "capec/capec_00813",
+        "cwe": "cwe/cwe_01636"
+    },
+    {
+        "ap": "capec/capec_00899",
+        "cwe": "cwe/cwe_01408"
+    },
+    {
+        "ap": "capec/capec_00811",
+        "cwe": "cwe/cwe_01136"
+    },
+    {
+        "ap": "capec/capec_01088",
+        "cwe": "cwe/cwe_01490"
+    },
+    {
+        "ap": "capec/capec_01102",
+        "cwe": "cwe/cwe_01476"
+    },
+    {
+        "ap": "capec/capec_00674",
+        "cwe": "cwe/cwe_01206"
+    },
+    {
+        "ap": "capec/capec_00893",
+        "cwe": "cwe/cwe_01714"
+    },
+    {
+        "ap": "capec/capec_01013",
+        "cwe": "cwe/cwe_01358"
+    },
+    {
+        "ap": "capec/capec_00957",
+        "cwe": "cwe/cwe_01517"
+    },
+    {
+        "ap": "capec/capec_00729",
+        "cwe": "cwe/cwe_01364"
+    },
+    {
+        "ap": "capec/capec_00875",
+        "cwe": "cwe/cwe_01331"
+    },
+    {
+        "ap": "capec/capec_01073",
+        "cwe": "cwe/cwe_01802"
+    },
+    {
+        "ap": "capec/capec_00948",
+        "cwe": "cwe/cwe_01416"
+    },
+    {
+        "ap": "capec/capec_00974",
+        "cwe": "cwe/cwe_01754"
+    },
+    {
+        "ap": "capec/capec_00713",
+        "cwe": "cwe/cwe_01978"
+    },
+    {
+        "ap": "capec/capec_00703",
+        "cwe": "cwe/cwe_01537"
+    },
+    {
+        "ap": "capec/capec_00944",
+        "cwe": "cwe/cwe_01639"
+    },
+    {
+        "ap": "capec/capec_01063",
+        "cwe": "cwe/cwe_01361"
+    },
+    {
+        "ap": "capec/capec_00963",
+        "cwe": "cwe/cwe_01774"
+    },
+    {
+        "ap": "capec/capec_00948",
+        "cwe": "cwe/cwe_01569"
+    },
+    {
+        "ap": "capec/capec_00865",
+        "cwe": "cwe/cwe_01494"
+    },
+    {
+        "ap": "capec/capec_00991",
+        "cwe": "cwe/cwe_01912"
+    },
+    {
+        "ap": "capec/capec_00870",
+        "cwe": "cwe/cwe_02014"
+    },
+    {
+        "ap": "capec/capec_00688",
+        "cwe": "cwe/cwe_01618"
+    },
+    {
+        "ap": "capec/capec_00879",
+        "cwe": "cwe/cwe_01250"
+    },
+    {
+        "ap": "capec/capec_01037",
+        "cwe": "cwe/cwe_01284"
+    },
+    {
+        "ap": "capec/capec_00933",
+        "cwe": "cwe/cwe_01376"
+    },
+    {
+        "ap": "capec/capec_00772",
+        "cwe": "cwe/cwe_01473"
+    },
+    {
+        "ap": "capec/capec_01092",
+        "cwe": "cwe/cwe_01361"
+    },
+    {
+        "ap": "capec/capec_00693",
+        "cwe": "cwe/cwe_01824"
+    },
+    {
+        "ap": "capec/capec_00974",
+        "cwe": "cwe/cwe_01525"
+    },
+    {
+        "ap": "capec/capec_01056",
+        "cwe": "cwe/cwe_01652"
+    },
+    {
+        "ap": "capec/capec_01053",
+        "cwe": "cwe/cwe_01706"
+    },
+    {
+        "ap": "capec/capec_00806",
+        "cwe": "cwe/cwe_01818"
+    },
+    {
+        "ap": "capec/capec_00989",
+        "cwe": "cwe/cwe_01641"
+    },
+    {
+        "ap": "capec/capec_00899",
+        "cwe": "cwe/cwe_01625"
+    },
+    {
+        "ap": "capec/capec_00819",
+        "cwe": "cwe/cwe_01449"
+    },
+    {
+        "ap": "capec/capec_01111",
+        "cwe": "cwe/cwe_01827"
+    },
+    {
+        "ap": "capec/capec_00582",
+        "cwe": "cwe/cwe_01221"
+    },
+    {
+        "ap": "capec/capec_01064",
+        "cwe": "cwe/cwe_01451"
+    },
+    {
+        "ap": "capec/capec_00984",
+        "cwe": "cwe/cwe_02039"
+    },
+    {
+        "ap": "capec/capec_00813",
+        "cwe": "cwe/cwe_01967"
+    },
+    {
+        "ap": "capec/capec_01022",
+        "cwe": "cwe/cwe_01176"
+    },
+    {
+        "ap": "capec/capec_00622",
+        "cwe": "cwe/cwe_01543"
+    },
+    {
+        "ap": "capec/capec_00676",
+        "cwe": "cwe/cwe_01396"
+    },
+    {
+        "ap": "capec/capec_00786",
+        "cwe": "cwe/cwe_01869"
+    },
+    {
+        "ap": "capec/capec_00915",
+        "cwe": "cwe/cwe_01309"
+    },
+    {
+        "ap": "capec/capec_00696",
+        "cwe": "cwe/cwe_01312"
+    },
+    {
+        "ap": "capec/capec_00953",
+        "cwe": "cwe/cwe_01155"
+    },
+    {
+        "ap": "capec/capec_00820",
+        "cwe": "cwe/cwe_01171"
+    },
+    {
+        "ap": "capec/capec_00589",
+        "cwe": "cwe/cwe_01518"
+    },
+    {
+        "ap": "capec/capec_00585",
+        "cwe": "cwe/cwe_01259"
+    },
+    {
+        "ap": "capec/capec_00700",
+        "cwe": "cwe/cwe_01968"
+    },
+    {
+        "ap": "capec/capec_00785",
+        "cwe": "cwe/cwe_01210"
+    },
+    {
+        "ap": "capec/capec_01058",
+        "cwe": "cwe/cwe_01329"
+    },
+    {
+        "ap": "capec/capec_00582",
+        "cwe": "cwe/cwe_01659"
+    },
+    {
+        "ap": "capec/capec_01006",
+        "cwe": "cwe/cwe_01195"
+    },
+    {
+        "ap": "capec/capec_00762",
+        "cwe": "cwe/cwe_01366"
+    },
+    {
+        "ap": "capec/capec_00813",
+        "cwe": "cwe/cwe_01552"
+    },
+    {
+        "ap": "capec/capec_00972",
+        "cwe": "cwe/cwe_01613"
+    },
+    {
+        "ap": "capec/capec_00581",
+        "cwe": "cwe/cwe_01573"
+    },
+    {
+        "ap": "capec/capec_00796",
+        "cwe": "cwe/cwe_01517"
+    },
+    {
+        "ap": "capec/capec_00623",
+        "cwe": "cwe/cwe_01757"
+    },
+    {
+        "ap": "capec/capec_00856",
+        "cwe": "cwe/cwe_01156"
+    },
+    {
+        "ap": "capec/capec_00936",
+        "cwe": "cwe/cwe_01847"
+    },
+    {
+        "ap": "capec/capec_00957",
+        "cwe": "cwe/cwe_01973"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "cwe": "cwe/cwe_01820"
+    },
+    {
+        "ap": "capec/capec_01045",
+        "cwe": "cwe/cwe_01783"
+    },
+    {
+        "ap": "capec/capec_00718",
+        "cwe": "cwe/cwe_01737"
+    },
+    {
+        "ap": "capec/capec_01110",
+        "cwe": "cwe/cwe_01221"
+    },
+    {
+        "ap": "capec/capec_00838",
+        "cwe": "cwe/cwe_01232"
+    },
+    {
+        "ap": "capec/capec_00686",
+        "cwe": "cwe/cwe_01406"
+    },
+    {
+        "ap": "capec/capec_00605",
+        "cwe": "cwe/cwe_01835"
+    },
+    {
+        "ap": "capec/capec_00726",
+        "cwe": "cwe/cwe_01762"
+    },
+    {
+        "ap": "capec/capec_00720",
+        "cwe": "cwe/cwe_01515"
+    },
+    {
+        "ap": "capec/capec_00793",
+        "cwe": "cwe/cwe_01713"
+    },
+    {
+        "ap": "capec/capec_00908",
+        "cwe": "cwe/cwe_01333"
+    },
+    {
+        "ap": "capec/capec_01012",
+        "cwe": "cwe/cwe_01647"
+    },
+    {
+        "ap": "capec/capec_01093",
+        "cwe": "cwe/cwe_01250"
+    },
+    {
+        "ap": "capec/capec_00689",
+        "cwe": "cwe/cwe_01836"
+    },
+    {
+        "ap": "capec/capec_01067",
+        "cwe": "cwe/cwe_01254"
+    },
+    {
+        "ap": "capec/capec_01102",
+        "cwe": "cwe/cwe_02041"
+    },
+    {
+        "ap": "capec/capec_01039",
+        "cwe": "cwe/cwe_01608"
+    },
+    {
+        "ap": "capec/capec_00763",
+        "cwe": "cwe/cwe_01592"
+    },
+    {
+        "ap": "capec/capec_00928",
+        "cwe": "cwe/cwe_01258"
+    },
+    {
+        "ap": "capec/capec_01007",
+        "cwe": "cwe/cwe_01387"
+    },
+    {
+        "ap": "capec/capec_00967",
+        "cwe": "cwe/cwe_01207"
+    },
+    {
+        "ap": "capec/capec_01098",
+        "cwe": "cwe/cwe_01470"
+    },
+    {
+        "ap": "capec/capec_00820",
+        "cwe": "cwe/cwe_01591"
+    },
+    {
+        "ap": "capec/capec_00835",
+        "cwe": "cwe/cwe_01486"
+    },
+    {
+        "ap": "capec/capec_01073",
+        "cwe": "cwe/cwe_01920"
+    },
+    {
+        "ap": "capec/capec_01001",
+        "cwe": "cwe/cwe_01151"
+    },
+    {
+        "ap": "capec/capec_01038",
+        "cwe": "cwe/cwe_01867"
+    },
+    {
+        "ap": "capec/capec_00587",
+        "cwe": "cwe/cwe_01692"
+    },
+    {
+        "ap": "capec/capec_00995",
+        "cwe": "cwe/cwe_01909"
+    },
+    {
+        "ap": "capec/capec_01037",
+        "cwe": "cwe/cwe_01356"
+    },
+    {
+        "ap": "capec/capec_01020",
+        "cwe": "cwe/cwe_01373"
+    },
+    {
+        "ap": "capec/capec_00840",
+        "cwe": "cwe/cwe_01615"
+    },
+    {
+        "ap": "capec/capec_01067",
+        "cwe": "cwe/cwe_01271"
+    },
+    {
+        "ap": "capec/capec_00814",
+        "cwe": "cwe/cwe_01578"
+    },
+    {
+        "ap": "capec/capec_00871",
+        "cwe": "cwe/cwe_01495"
+    },
+    {
+        "ap": "capec/capec_01078",
+        "cwe": "cwe/cwe_01740"
+    },
+    {
+        "ap": "capec/capec_00733",
+        "cwe": "cwe/cwe_01978"
+    },
+    {
+        "ap": "capec/capec_01115",
+        "cwe": "cwe/cwe_01827"
+    },
+    {
+        "ap": "capec/capec_00670",
+        "cwe": "cwe/cwe_01319"
+    },
+    {
+        "ap": "capec/capec_00888",
+        "cwe": "cwe/cwe_01657"
+    },
+    {
+        "ap": "capec/capec_00706",
+        "cwe": "cwe/cwe_01187"
+    },
+    {
+        "ap": "capec/capec_00739",
+        "cwe": "cwe/cwe_01478"
+    },
+    {
+        "ap": "capec/capec_00618",
+        "cwe": "cwe/cwe_01469"
+    },
+    {
+        "ap": "capec/capec_00745",
+        "cwe": "cwe/cwe_01911"
+    },
+    {
+        "ap": "capec/capec_01060",
+        "cwe": "cwe/cwe_01526"
+    },
+    {
+        "ap": "capec/capec_01089",
+        "cwe": "cwe/cwe_01323"
+    },
+    {
+        "ap": "capec/capec_00752",
+        "cwe": "cwe/cwe_01527"
+    },
+    {
+        "ap": "capec/capec_00629",
+        "cwe": "cwe/cwe_01932"
+    },
+    {
+        "ap": "capec/capec_00928",
+        "cwe": "cwe/cwe_02035"
+    },
+    {
+        "ap": "capec/capec_01114",
+        "cwe": "cwe/cwe_01319"
+    },
+    {
+        "ap": "capec/capec_00916",
+        "cwe": "cwe/cwe_01314"
+    },
+    {
+        "ap": "capec/capec_01112",
+        "cwe": "cwe/cwe_01682"
+    },
+    {
+        "ap": "capec/capec_01025",
+        "cwe": "cwe/cwe_01282"
+    },
+    {
+        "ap": "capec/capec_01086",
+        "cwe": "cwe/cwe_02047"
+    },
+    {
+        "ap": "capec/capec_00799",
+        "cwe": "cwe/cwe_01739"
+    },
+    {
+        "ap": "capec/capec_01032",
+        "cwe": "cwe/cwe_01160"
+    },
+    {
+        "ap": "capec/capec_00829",
+        "cwe": "cwe/cwe_01626"
+    },
+    {
+        "ap": "capec/capec_00906",
+        "cwe": "cwe/cwe_01696"
+    },
+    {
+        "ap": "capec/capec_00782",
+        "cwe": "cwe/cwe_01127"
+    },
+    {
+        "ap": "capec/capec_00625",
+        "cwe": "cwe/cwe_01190"
+    },
+    {
+        "ap": "capec/capec_00718",
+        "cwe": "cwe/cwe_01375"
+    },
+    {
+        "ap": "capec/capec_01034",
+        "cwe": "cwe/cwe_02022"
+    },
+    {
+        "ap": "capec/capec_00810",
+        "cwe": "cwe/cwe_01803"
+    },
+    {
+        "ap": "capec/capec_00692",
+        "cwe": "cwe/cwe_02009"
+    },
+    {
+        "ap": "capec/capec_01109",
+        "cwe": "cwe/cwe_01562"
+    },
+    {
+        "ap": "capec/capec_00874",
+        "cwe": "cwe/cwe_02033"
+    },
+    {
+        "ap": "capec/capec_00927",
+        "cwe": "cwe/cwe_01632"
+    },
+    {
+        "ap": "capec/capec_00777",
+        "cwe": "cwe/cwe_01294"
+    },
+    {
+        "ap": "capec/capec_00962",
+        "cwe": "cwe/cwe_01697"
+    },
+    {
+        "ap": "capec/capec_00946",
+        "cwe": "cwe/cwe_01861"
+    },
+    {
+        "ap": "capec/capec_01029",
+        "cwe": "cwe/cwe_01527"
+    },
+    {
+        "ap": "capec/capec_01030",
+        "cwe": "cwe/cwe_01806"
+    },
+    {
+        "ap": "capec/capec_00906",
+        "cwe": "cwe/cwe_01993"
+    },
+    {
+        "ap": "capec/capec_01060",
+        "cwe": "cwe/cwe_01195"
+    },
+    {
+        "ap": "capec/capec_00731",
+        "cwe": "cwe/cwe_01352"
+    },
+    {
+        "ap": "capec/capec_00697",
+        "cwe": "cwe/cwe_01896"
+    },
+    {
+        "ap": "capec/capec_00740",
+        "cwe": "cwe/cwe_01530"
+    },
+    {
+        "ap": "capec/capec_01056",
+        "cwe": "cwe/cwe_01851"
+    },
+    {
+        "ap": "capec/capec_00796",
+        "cwe": "cwe/cwe_02040"
+    },
+    {
+        "ap": "capec/capec_00957",
+        "cwe": "cwe/cwe_01848"
+    },
+    {
+        "ap": "capec/capec_00628",
+        "cwe": "cwe/cwe_01148"
+    },
+    {
+        "ap": "capec/capec_00996",
+        "cwe": "cwe/cwe_01339"
+    },
+    {
+        "ap": "capec/capec_00670",
+        "cwe": "cwe/cwe_02001"
+    },
+    {
+        "ap": "capec/capec_01003",
+        "cwe": "cwe/cwe_01726"
+    }
+]
