@@ -1,0 +1,622 @@
+[
+    {
+        "ap": "capec/capec_01117",
+        "technique": "technique/technique_00445"
+    },
+    {
+        "ap": "capec/capec_00764",
+        "technique": "technique/technique_00280"
+    },
+    {
+        "ap": "capec/capec_01246",
+        "technique": "technique/technique_00512"
+    },
+    {
+        "ap": "capec/capec_01137",
+        "technique": "technique/technique_00325"
+    },
+    {
+        "ap": "capec/capec_01211",
+        "technique": "technique/technique_00381"
+    },
+    {
+        "ap": "capec/capec_01320",
+        "technique": "technique/technique_00238"
+    },
+    {
+        "ap": "capec/capec_01239",
+        "technique": "technique/technique_00157"
+    },
+    {
+        "ap": "capec/capec_01011",
+        "technique": "technique/technique_00158"
+    },
+    {
+        "ap": "capec/capec_00820",
+        "technique": "technique/technique_00648"
+    },
+    {
+        "ap": "capec/capec_00979",
+        "technique": "technique/technique_00560"
+    },
+    {
+        "ap": "capec/capec_00873",
+        "technique": "technique/technique_00332"
+    },
+    {
+        "ap": "capec/capec_00824",
+        "technique": "technique/technique_00090"
+    },
+    {
+        "ap": "capec/capec_01061",
+        "technique": "technique/technique_00498"
+    },
+    {
+        "ap": "capec/capec_01296",
+        "technique": "technique/technique_00118"
+    },
+    {
+        "ap": "capec/capec_01085",
+        "technique": "technique/technique_00459"
+    },
+    {
+        "ap": "capec/capec_01046",
+        "technique": "technique/technique_00640"
+    },
+    {
+        "ap": "capec/capec_00932",
+        "technique": "technique/technique_00580"
+    },
+    {
+        "ap": "capec/capec_01211",
+        "technique": "technique/technique_00468"
+    },
+    {
+        "ap": "capec/capec_01256",
+        "technique": "technique/technique_00281"
+    },
+    {
+        "ap": "capec/capec_00786",
+        "technique": "technique/technique_00576"
+    },
+    {
+        "ap": "capec/capec_00737",
+        "technique": "technique/technique_00110"
+    },
+    {
+        "ap": "capec/capec_01131",
+        "technique": "technique/technique_00699"
+    },
+    {
+        "ap": "capec/capec_00724",
+        "technique": "technique/technique_00641"
+    },
+    {
+        "ap": "capec/capec_01228",
+        "technique": "technique/technique_00356"
+    },
+    {
+        "ap": "capec/capec_00972",
+        "technique": "technique/technique_00348"
+    },
+    {
+        "ap": "capec/capec_00787",
+        "technique": "technique/technique_00210"
+    },
+    {
+        "ap": "capec/capec_01304",
+        "technique": "technique/technique_00242"
+    },
+    {
+        "ap": "capec/capec_00967",
+        "technique": "technique/technique_00160"
+    },
+    {
+        "ap": "capec/capec_01279",
+        "technique": "technique/technique_00473"
+    },
+    {
+        "ap": "capec/capec_00816",
+        "technique": "technique/technique_00097"
+    },
+    {
+        "ap": "capec/capec_01050",
+        "technique": "technique/technique_00535"
+    },
+    {
+        "ap": "capec/capec_01224",
+        "technique": "technique/technique_00126"
+    },
+    {
+        "ap": "capec/capec_01031",
+        "technique": "technique/technique_00579"
+    },
+    {
+        "ap": "capec/capec_01021",
+        "technique": "technique/technique_00142"
+    },
+    {
+        "ap": "capec/capec_01283",
+        "technique": "technique/technique_00355"
+    },
+    {
+        "ap": "capec/capec_01276",
+        "technique": "technique/technique_00223"
+    },
+    {
+        "ap": "capec/capec_01283",
+        "technique": "technique/technique_00616"
+    },
+    {
+        "ap": "capec/capec_01017",
+        "technique": "technique/technique_00470"
+    },
+    {
+        "ap": "capec/capec_00816",
+        "technique": "technique/technique_00625"
+    },
+    {
+        "ap": "capec/capec_01117",
+        "technique": "technique/technique_00339"
+    },
+    {
+        "ap": "capec/capec_01312",
+        "technique": "technique/technique_00262"
+    },
+    {
+        "ap": "capec/capec_01020",
+        "technique": "technique/technique_00203"
+    },
+    {
+        "ap": "capec/capec_00916",
+        "technique": "technique/technique_00206"
+    },
+    {
+        "ap": "capec/capec_00756",
+        "technique": "technique/technique_00642"
+    },
+    {
+        "ap": "capec/capec_00989",
+        "technique": "technique/technique_00502"
+    },
+    {
+        "ap": "capec/capec_00793",
+        "technique": "technique/technique_00106"
+    },
+    {
+        "ap": "capec/capec_00856",
+        "technique": "technique/technique_00168"
+    },
+    {
+        "ap": "capec/capec_00762",
+        "technique": "technique/technique_00097"
+    },
+    {
+        "ap": "capec/capec_01276",
+        "technique": "technique/technique_00714"
+    },
+    {
+        "ap": "capec/capec_01123",
+        "technique": "technique/technique_00552"
+    },
+    {
+        "ap": "capec/capec_01005",
+        "technique": "technique/technique_00549"
+    },
+    {
+        "ap": "capec/capec_00964",
+        "technique": "technique/technique_00235"
+    },
+    {
+        "ap": "capec/capec_01152",
+        "technique": "technique/technique_00608"
+    },
+    {
+        "ap": "capec/capec_01004",
+        "technique": "technique/technique_00476"
+    },
+    {
+        "ap": "capec/capec_01227",
+        "technique": "technique/technique_00691"
+    },
+    {
+        "ap": "capec/capec_01088",
+        "technique": "technique/technique_00099"
+    },
+    {
+        "ap": "capec/capec_01055",
+        "technique": "technique/technique_00642"
+    },
+    {
+        "ap": "capec/capec_00841",
+        "technique": "technique/technique_00513"
+    },
+    {
+        "ap": "capec/capec_01066",
+        "technique": "technique/technique_00209"
+    },
+    {
+        "ap": "capec/capec_00971",
+        "technique": "technique/technique_00031"
+    },
+    {
+        "ap": "capec/capec_01000",
+        "technique": "technique/technique_00134"
+    },
+    {
+        "ap": "capec/capec_00948",
+        "technique": "technique/technique_00395"
+    },
+    {
+        "ap": "capec/capec_00897",
+        "technique": "technique/technique_00355"
+    },
+    {
+        "ap": "capec/capec_01159",
+        "technique": "technique/technique_00078"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "technique": "technique/technique_00164"
+    },
+    {
+        "ap": "capec/capec_00947",
+        "technique": "technique/technique_00061"
+    },
+    {
+        "ap": "capec/capec_01310",
+        "technique": "technique/technique_00664"
+    },
+    {
+        "ap": "capec/capec_01270",
+        "technique": "technique/technique_00631"
+    },
+    {
+        "ap": "capec/capec_00798",
+        "technique": "technique/technique_00042"
+    },
+    {
+        "ap": "capec/capec_00850",
+        "technique": "technique/technique_00665"
+    },
+    {
+        "ap": "capec/capec_00916",
+        "technique": "technique/technique_00635"
+    },
+    {
+        "ap": "capec/capec_01312",
+        "technique": "technique/technique_00137"
+    },
+    {
+        "ap": "capec/capec_01123",
+        "technique": "technique/technique_00108"
+    },
+    {
+        "ap": "capec/capec_01102",
+        "technique": "technique/technique_00133"
+    },
+    {
+        "ap": "capec/capec_00760",
+        "technique": "technique/technique_00635"
+    },
+    {
+        "ap": "capec/capec_00745",
+        "technique": "technique/technique_00214"
+    },
+    {
+        "ap": "capec/capec_00912",
+        "technique": "technique/technique_00141"
+    },
+    {
+        "ap": "capec/capec_01213",
+        "technique": "technique/technique_00230"
+    },
+    {
+        "ap": "capec/capec_00785",
+        "technique": "technique/technique_00710"
+    },
+    {
+        "ap": "capec/capec_00746",
+        "technique": "technique/technique_00572"
+    },
+    {
+        "ap": "capec/capec_01158",
+        "technique": "technique/technique_00650"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "technique": "technique/technique_00281"
+    },
+    {
+        "ap": "capec/capec_00794",
+        "technique": "technique/technique_00241"
+    },
+    {
+        "ap": "capec/capec_00796",
+        "technique": "technique/technique_00677"
+    },
+    {
+        "ap": "capec/capec_01031",
+        "technique": "technique/technique_00373"
+    },
+    {
+        "ap": "capec/capec_01169",
+        "technique": "technique/technique_00199"
+    },
+    {
+        "ap": "capec/capec_00785",
+        "technique": "technique/technique_00530"
+    },
+    {
+        "ap": "capec/capec_01201",
+        "technique": "technique/technique_00055"
+    },
+    {
+        "ap": "capec/capec_00826",
+        "technique": "technique/technique_00415"
+    },
+    {
+        "ap": "capec/capec_00927",
+        "technique": "technique/technique_00281"
+    },
+    {
+        "ap": "capec/capec_01090",
+        "technique": "technique/technique_00496"
+    },
+    {
+        "ap": "capec/capec_01306",
+        "technique": "technique/technique_00188"
+    },
+    {
+        "ap": "capec/capec_00931",
+        "technique": "technique/technique_00074"
+    },
+    {
+        "ap": "capec/capec_00885",
+        "technique": "technique/technique_00180"
+    },
+    {
+        "ap": "capec/capec_01073",
+        "technique": "technique/technique_00557"
+    },
+    {
+        "ap": "capec/capec_00979",
+        "technique": "technique/technique_00135"
+    },
+    {
+        "ap": "capec/capec_01175",
+        "technique": "technique/technique_00696"
+    },
+    {
+        "ap": "capec/capec_00902",
+        "technique": "technique/technique_00028"
+    },
+    {
+        "ap": "capec/capec_01205",
+        "technique": "technique/technique_00712"
+    },
+    {
+        "ap": "capec/capec_01142",
+        "technique": "technique/technique_00597"
+    },
+    {
+        "ap": "capec/capec_01243",
+        "technique": "technique/technique_00333"
+    },
+    {
+        "ap": "capec/capec_01088",
+        "technique": "technique/technique_00412"
+    },
+    {
+        "ap": "capec/capec_00979",
+        "technique": "technique/technique_00172"
+    },
+    {
+        "ap": "capec/capec_01297",
+        "technique": "technique/technique_00722"
+    },
+    {
+        "ap": "capec/capec_00735",
+        "technique": "technique/technique_00483"
+    },
+    {
+        "ap": "capec/capec_00803",
+        "technique": "technique/technique_00358"
+    },
+    {
+        "ap": "capec/capec_00769",
+        "technique": "technique/technique_00572"
+    },
+    {
+        "ap": "capec/capec_01010",
+        "technique": "technique/technique_00153"
+    },
+    {
+        "ap": "capec/capec_00968",
+        "technique": "technique/technique_00508"
+    },
+    {
+        "ap": "capec/capec_01083",
+        "technique": "technique/technique_00639"
+    },
+    {
+        "ap": "capec/capec_01017",
+        "technique": "technique/technique_00704"
+    },
+    {
+        "ap": "capec/capec_01090",
+        "technique": "technique/technique_00619"
+    },
+    {
+        "ap": "capec/capec_00858",
+        "technique": "technique/technique_00332"
+    },
+    {
+        "ap": "capec/capec_01120",
+        "technique": "technique/technique_00439"
+    },
+    {
+        "ap": "capec/capec_00805",
+        "technique": "technique/technique_00016"
+    },
+    {
+        "ap": "capec/capec_00919",
+        "technique": "technique/technique_00357"
+    },
+    {
+        "ap": "capec/capec_00886",
+        "technique": "technique/technique_00260"
+    },
+    {
+        "ap": "capec/capec_00951",
+        "technique": "technique/technique_00667"
+    },
+    {
+        "ap": "capec/capec_01181",
+        "technique": "technique/technique_00402"
+    },
+    {
+        "ap": "capec/capec_01304",
+        "technique": "technique/technique_00439"
+    },
+    {
+        "ap": "capec/capec_00755",
+        "technique": "technique/technique_00426"
+    },
+    {
+        "ap": "capec/capec_01304",
+        "technique": "technique/technique_00443"
+    },
+    {
+        "ap": "capec/capec_00770",
+        "technique": "technique/technique_00184"
+    },
+    {
+        "ap": "capec/capec_01179",
+        "technique": "technique/technique_00080"
+    },
+    {
+        "ap": "capec/capec_00988",
+        "technique": "technique/technique_00176"
+    },
+    {
+        "ap": "capec/capec_01180",
+        "technique": "technique/technique_00555"
+    },
+    {
+        "ap": "capec/capec_01221",
+        "technique": "technique/technique_00589"
+    },
+    {
+        "ap": "capec/capec_00723",
+        "technique": "technique/technique_00054"
+    },
+    {
+        "ap": "capec/capec_01229",
+        "technique": "technique/technique_00348"
+    },
+    {
+        "ap": "capec/capec_01042",
+        "technique": "technique/technique_00493"
+    },
+    {
+        "ap": "capec/capec_00774",
+        "technique": "technique/technique_00440"
+    },
+    {
+        "ap": "capec/capec_00915",
+        "technique": "technique/technique_00576"
+    },
+    {
+        "ap": "capec/capec_00808",
+        "technique": "technique/technique_00148"
+    },
+    {
+        "ap": "capec/capec_00738",
+        "technique": "technique/technique_00426"
+    },
+    {
+        "ap": "capec/capec_01150",
+        "technique": "technique/technique_00338"
+    },
+    {
+        "ap": "capec/capec_00726",
+        "technique": "technique/technique_00233"
+    },
+    {
+        "ap": "capec/capec_00737",
+        "technique": "technique/technique_00017"
+    },
+    {
+        "ap": "capec/capec_01264",
+        "technique": "technique/technique_00641"
+    },
+    {
+        "ap": "capec/capec_00823",
+        "technique": "technique/technique_00210"
+    },
+    {
+        "ap": "capec/capec_00844",
+        "technique": "technique/technique_00637"
+    },
+    {
+        "ap": "capec/capec_00926",
+        "technique": "technique/technique_00324"
+    },
+    {
+        "ap": "capec/capec_01009",
+        "technique": "technique/technique_00720"
+    },
+    {
+        "ap": "capec/capec_00909",
+        "technique": "technique/technique_00117"
+    },
+    {
+        "ap": "capec/capec_01210",
+        "technique": "technique/technique_00421"
+    },
+    {
+        "ap": "capec/capec_00806",
+        "technique": "technique/technique_00037"
+    },
+    {
+        "ap": "capec/capec_01004",
+        "technique": "technique/technique_00478"
+    },
+    {
+        "ap": "capec/capec_00841",
+        "technique": "technique/technique_00277"
+    },
+    {
+        "ap": "capec/capec_00859",
+        "technique": "technique/technique_00684"
+    },
+    {
+        "ap": "capec/capec_01256",
+        "technique": "technique/technique_00681"
+    },
+    {
+        "ap": "capec/capec_01078",
+        "technique": "technique/technique_00132"
+    },
+    {
+        "ap": "capec/capec_00881",
+        "technique": "technique/technique_00300"
+    },
+    {
+        "ap": "capec/capec_00742",
+        "technique": "technique/technique_00058"
+    },
+    {
+        "ap": "capec/capec_00764",
+        "technique": "technique/technique_00225"
+    },
+    {
+        "ap": "capec/capec_00988",
+        "technique": "technique/technique_00586"
+    },
+    {
+        "ap": "capec/capec_01045",
+        "technique": "technique/technique_00390"
+    }
+]
